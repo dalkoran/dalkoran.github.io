@@ -19,7 +19,7 @@ Here’s a few samples – click for larger versions. These are all taken with a
   
 
 ***EDIT**: First photo now links to full size image (around 2.9Mb).*
-  <p align="center"><a href="http://photos.spencen.com/images/A_9/7/5/7/7579/abzu4er1.jpg" target="_blank">![DSC09098 Stitch](/images/DSC09098%20Stitch_thumb.jpg "DSC09098 Stitch")</a> 
+  <p align="center"><a href="http://photos.spencen.com/images/A_9/7/5/7/7579/abzu4er1.jpg" target="_blank">![DSC09098 Stitch](/images/DSC09098%20Stitch.jpg "DSC09098 Stitch")</a> 
   <p align="center">*Beach at Penneshaw – taken from Frenchman’s Rock. Cape Jervis on the horizon on the far right.*
   <p align="center">**
   <p align="center"><a href="/images/DSC09150%20Stitch_2.jpg" target="_blank">![DSC09150 Stitch](/images/DSC09150%20Stitch_thumb.jpg "DSC09150 Stitch")</a>

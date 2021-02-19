@@ -13,7 +13,7 @@ I’ve just uploaded Part 2 of my screencast on Occasionally Connected Applicati
 
 
 
-<a href="/images/ADOSyncStats_2.jpg">![ADOSyncStats src=](/images/ADOSyncStats_thumb.jpg "ADOSyncStats style=")</a>&nbsp;<a href="/images/ADOSyncConflict_2.jpg">![ADOSyncConflict src=](/images/ADOSyncConflict_thumb.jpg "ADOSyncConflict style=")</a> 
+<a href="/images/ADOSyncStats.jpg">![ADOSyncStats src=](/images/ADOSyncStats.jpg "ADOSyncStats style=")</a>&nbsp;<a href="/images/ADOSyncConflict.jpg">![ADOSyncConflict src=](/images/ADOSyncConflict.jpg "ADOSyncConflict style=")</a> 
 
 
 

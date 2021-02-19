@@ -39,8 +39,7 @@ The super AMOLED screen lives up to the hype – it is very beautiful – especi
 **[http://www.istartedsomething.com/20100611/windows-phone-7-developer-phone-unlock-detailed/](http://www.istartedsomething.com/20100611/windows-phone-7-developer-phone-unlock-detailed/)
   
 
-<a href="/images/Windows%20Phone%20Developer%20Device%20Registration.png">![Windows Phone Developer Device Registratio
-n](/images/Windows%20Phone%20Developer%20Device%20Registration_thumb.png "Windows Phone Developer Device Registration")</a>
+<a href="/images/Windows%20Phone%20Developer%20Device%20Registration.png">![Windows Phone Developer Device Registration](/images/Windows%20Phone%20Developer%20Device%20Registration.png "Windows Phone Developer Device Registration")</a>
   
 
 Once that was done, I hit F5 again and hey presto *Word Puzzle* is deployed to my phone. Nice!

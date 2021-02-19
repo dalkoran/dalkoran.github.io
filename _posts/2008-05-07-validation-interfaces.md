@@ -37,7 +37,7 @@ validator.RegisterRule(<span style="color: rgb(0,0,255)">this</span>, asyncRule)
     
 
     
-    <a href="/images/IValidationValueProvider_2.png">![IValidationValueProvider](/images/IValidationValueProvider_thumb.png)</a> This interface is used by the ValidationRules themselves. When a rule is Validated by a Validator it is passed a single value. This value will be the instance that the Validator has been asked to Validate. For example an EntityValidator may use INotifyPropertyChanged to validate a business entity on every property change - and the business entity instance would be passed to the ValidationRule. 
+    <a href="/images/IValidationValueProvider.png">![IValidationValueProvider](/images/IValidationValueProvider.png)</a> This interface is used by the ValidationRules themselves. When a rule is Validated by a Validator it is passed a single value. This value will be the instance that the Validator has been asked to Validate. For example an EntityValidator may use INotifyPropertyChanged to validate a business entity on every property change - and the business entity instance would be passed to the ValidationRule. 
     
 
     

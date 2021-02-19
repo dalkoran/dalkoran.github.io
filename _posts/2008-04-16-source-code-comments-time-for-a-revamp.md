@@ -26,7 +26,7 @@ Jumping ahead a few years and I'm using C# with Visual Studio 2005 on a large sc
  
 
 Yes, but as everyone knows [Sandcastle](http://www.codeplex.com/Sandcastle) lives! The first few drops of Sandcastle were really quite scary. Config files here there and everywhere, write your own scripts to produce the end result. But whilst Microsoft were concentrating hard on getting the fundamental engine right the community came to the rescue&nbsp; with Sandcastle Help File Builder ([SHFB](http://www.codeplex.com/SHFB)). A full featured, easy to use GUI to produce Help v1, v2 and HTML documentation using the Sandcastle engine. The recent builds of Sandcastle coupled with SHFB and we're finally back (in fact slightly ahead) of where NDoc left off. The SHFB has even been built to look and feel just like the NDoc GUI - nice!
- <p align="center"><a href="/images/Sandcastle%20-%20UriToThumbnailConverter.png" target="_blank">![Sandcastle - UriToThumbnailConverter](/images/Sandcastle%20-%20UriToThumbnailConverter_thumb.png)</a>&nbsp;
+ <p align="center"><a href="/images/Sandcastle%20-%20UriToThumbnailConverter.png" target="_blank">![Sandcastle - UriToThumbnailConverter](/images/Sandcastle%20-%20UriToThumbnailConverter.png)</a>&nbsp;
  <p align="center">*Some HTML v1 output from Sandcastle using SHFB.*
  
 
@@ -116,7 +116,7 @@ Well - back in those Visual Studio 2005 days I used to use a little tool called 
 
 What I really want is source comment markup integrated in the Visual Studio editor. When I'm browsing source code I don't want to see angle brackets and tags all over the place. I want to see clearly readable documentation. When I want to edit the source comments then you can show me the angle brackets. Or better yet - given only a limited set of documentation and standard HTML tags are supported - why should I ever need to see the tags? Give me a limited document editor with a set of extendable "regions" and some basic bold/italic etc. formatting. (Click the image below to see in its full glory what could be a preview of Dev10).
 
-<p align="center"><a href="/images/Visual%20Studio%20Help%20Editor%201_4.png" target="_blank">![Visual Studio Help Editor](/images/Visual%20Studio%20Help%20Editor%201_thumb_1.png)</a> 
+<p align="center"><a href="/images/Visual%20Studio%20Help%20Editor%201.png" target="_blank">![Visual Studio Help Editor](/images/Visual%20Studio%20Help%20Editor%201.png)</a> 
 
 <p align="center">*An impression of what source code comment viewing could be like in Visual Studio.*
 
