@@ -171,6 +171,6 @@ The rendered TextBox would use the Binding properties defined as the default on 
 *   Using the AnnotationAttribute to set the Tooltip.
 
 
-<a href="http://blog.spencen.com/images/83489-72989/MetaData_2.png" target="_blank">![MetaData](http://blog.spencen.com/images/83489-72989/MetaData_thumb_1.png)</a>
+<a href="/images/MetaData_2.png" target="_blank">![MetaData](/images/MetaData_thumb_1.png)</a>
 
 

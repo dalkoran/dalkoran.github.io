@@ -17,7 +17,7 @@ A common requirement for a DataGrid control is to have cells, or entire rows and
 3.  The cell(s) must be highlighted in some manner (e.g. background colour) to indicate that they are different to the editable cells. 
 4.  ReadOnly columns require only single direction data-binding (i.e. Mode=OneWay to read-only properties).   
 
-![GridEditing - ReadOnly Rows](http://blog.spencen.com/images/83489-72989/GridEditing%20-%20ReadOnly%20Rows_5.png "GridEditing - ReadOnly Rows") 
+![GridEditing - ReadOnly Rows](/images/GridEditing%20-%20ReadOnly%20Rows_5.png "GridEditing - ReadOnly Rows") 
   
 
 The Microsoft WPF DataGrid meets these requirements via:

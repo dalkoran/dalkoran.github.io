@@ -15,7 +15,7 @@ In the recent Screencasts I did on creating an Occasionally Connected app my use
 Here is the screen using a ResourceDictionary (Resources\Simple.xaml) with the bare minimum required to be usable:
   
 
-![HolidaySelectionSimple](http://blog.spencen.com/images/83489-72989/HolidaySelectionSimple_2.jpg) 
+![HolidaySelectionSimple](/images/HolidaySelectionSimple_2.jpg) 
   
 
 And here&#8217;s the XAML behind it:
@@ -137,7 +137,7 @@ Changes the front screen as shown below without changing any of the behaviours (
 
 
 
-![HolidaySelectionStandard](http://blog.spencen.com/images/83489-72989/HolidaySelectionStandard_2.jpg) 
+![HolidaySelectionStandard](/images/HolidaySelectionStandard_2.jpg) 
 
 
 
@@ -169,7 +169,7 @@ Here&#8217;s the end result:
 
 
 
-![HolidaySelectionAlbum](http://blog.spencen.com/images/83489-72989/HolidaySelectionAlbum_2.jpg) 
+![HolidaySelectionAlbum](/images/HolidaySelectionAlbum_2.jpg) 
 
 
 

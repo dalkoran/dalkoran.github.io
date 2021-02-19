@@ -38,13 +38,13 @@ Has anyone had a successful download under Vista?
 Hah! Works sooo much better under Windows XP. You can actually choose the location of your download file! Of course the resume still doesn't work so there's little chance of ever actually completing a download...
  
 
-![Akami Download Manager Failure](http://blog.spencen.com/images/83489-72989/Akami%20Download%20Manager%20Failure_1.png) 
+![Akami Download Manager Failure](/images/Akami%20Download%20Manager%20Failure_1.png) 
  
 
 I wonder who at Microsoft I should be contacting?
  
 
-![Akami Download Manager Do You Want To Keep](http://blog.spencen.com/images/83489-72989/Akami%20Download%20Manager%20Do%20You%20Want%20To%20Keep_1.png) 
+![Akami Download Manager Do You Want To Keep](/images/Akami%20Download%20Manager%20Do%20You%20Want%20To%20Keep_1.png) 
  
 
 Don't be fooled by that friendly looking warning sign - this is a trick question. It doesn't matter whether you pick "Yes" or "No" your download is doomed. There is no ability to resume an interrupted download.

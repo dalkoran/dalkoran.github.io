@@ -17,7 +17,7 @@ I checked the MSDN site again in desperation and it appears they have one SKU at
 
 *   I got to pick the download location.  I'm reasonably confident it will resume from network glitches.  I don't believe it has some built in 8 hour time restriction that prevents anyone with poor transfer speeds &lt;= 1.5Mb from downloading it.  Its easier to install. 
 
-![Original Download Manager](http://blog.spencen.com/images/83489-72989/Original%20Download%20Manager_1.gif) 
+![Original Download Manager](/images/Original%20Download%20Manager_1.gif) 
  
 
 I managed to have 5 failed attempts using the Akamai Download err... thing. Wasted around 12 Gb of bandwidth. I just love this paragraph from the Microsoft FAQ regarding the "Top Downloads" use of Akamai.

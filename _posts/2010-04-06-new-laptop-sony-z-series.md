@@ -42,7 +42,7 @@ The desktops I priced that matched these requirements were priced around $1200. 
 &#160;
   
 
-<a href="http://blog.spencen.com/images/83489-72989/VPCZ112GXS_2_2.png">![VPCZ112GXS_2](http://blog.spencen.com/images/83489-72989/VPCZ112GXS_2_thumb.png "VPCZ112GXS_2")</a>&#160;
+<a href="/images/VPCZ112GXS_2_2.png">![VPCZ112GXS_2](/images/VPCZ112GXS_2_thumb.png "VPCZ112GXS_2")</a>&#160;
   
 
 Pros
@@ -83,6 +83,6 @@ Cons
 
   
 
-<a href="http://blog.spencen.com/images/83489-72989/VPCZ112GXS_1_2.png">![VPCZ112GXS_1](http://blog.spencen.com/images/83489-72989/VPCZ112GXS_1_thumb.png "VPCZ112GXS_1")</a>
+<a href="/images/VPCZ112GXS_1_2.png">![VPCZ112GXS_1](/images/VPCZ112GXS_1_thumb.png "VPCZ112GXS_1")</a>
 
 

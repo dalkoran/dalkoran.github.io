@@ -50,6 +50,6 @@ My equivalent of Josh’s sample project is <a href="http://www.spencen.com/Down
 
 
 
-<a href="http://www.spencen.com/Downloads/CleanlyBindToValidationErrorsNS.zip">![CleanlyBindToValidationErrors](http://blog.spencen.com/images/83489-72989/CleanlyBindToValidationErrors_1.png "CleanlyBindToValidationErrors")</a>
+<a href="http://www.spencen.com/Downloads/CleanlyBindToValidationErrorsNS.zip">![CleanlyBindToValidationErrors](/images/CleanlyBindToValidationErrors_1.png "CleanlyBindToValidationErrors")</a>
 
 

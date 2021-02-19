@@ -12,7 +12,7 @@ tags: []
 I had been seeing some odd exceptions being thrown by the WPF DataGrid code when interacting with the “new row” place holder. 
   
 
-![GridEditing - SelectedItem FormatException](http://blog.spencen.com/images/83489-72989/GridEditing%20-%20SelectedItem%20FormatException_1.png "GridEditing - SelectedItem FormatException") 
+![GridEditing - SelectedItem FormatException](/images/GridEditing%20-%20SelectedItem%20FormatException_1.png "GridEditing - SelectedItem FormatException") 
   
 
 I could identify that the error was occurring because I had data-bound to the SelectedItem property on the DataGrid like so:

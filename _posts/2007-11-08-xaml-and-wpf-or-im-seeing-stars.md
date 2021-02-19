@@ -38,7 +38,7 @@ As an example - I recently wanted to create some simple graphics by having some 
 <span style="color: #0000ff">&lt;/</span><span style="color: #800000">Polygon</span><span style="color: #0000ff">&gt;</span></pre></div>
 
     
-    ![SimpleXAMLStar](http://blog.spencen.com/images/83489-72989/SimpleXAMLStar_3.png)&nbsp;
+    ![SimpleXAMLStar](/images/SimpleXAMLStar_3.png)&nbsp;
     
 
     
@@ -108,7 +108,7 @@ Geometry outlinePath = group.GetOutlinedPathGeometry();
     </pre></div>
 
     
-    ![ShapeStars](http://blog.spencen.com/images/83489-72989/ShapeStars_3.png) 
+    ![ShapeStars](/images/ShapeStars_3.png) 
     
 
     
@@ -204,6 +204,6 @@ Of course I couldn't resist rotating the whole thing too ![](http://blog.spencen
 
 
 
-![RotatingDrawingVisuals](http://blog.spencen.com/images/83489-72989/RotatingDrawingVisuals_3.png)
+![RotatingDrawingVisuals](/images/RotatingDrawingVisuals_3.png)
 
 

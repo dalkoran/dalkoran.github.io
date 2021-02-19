@@ -63,7 +63,7 @@ C0,4 0,0 4,0 z</font></span><span style="color: rgb(0,0,255)"><font face="Verdan
     
 
     
-    ![Glass Panel Effect](http://blog.spencen.com/images/83489-72989/Glass%20Panel%20Effect_3.png "Glass Panel Effect")&#160;&#160;&#160; ![Glass Panel No Background](http://blog.spencen.com/images/83489-72989/Glass%20Panel%20No%20Background_3.png "Glass Panel No Background")
+    ![Glass Panel Effect](/images/Glass%20Panel%20Effect_3.png "Glass Panel Effect")&#160;&#160;&#160; ![Glass Panel No Background](/images/Glass%20Panel%20No%20Background_3.png "Glass Panel No Background")
     
 
     
@@ -87,6 +87,6 @@ C0,4 0,0 4,0 z</font></span><span style="color: rgb(0,0,255)"><font face="Verdan
 <a href="http://11011.net/software/vspaste"></a>
 
 
-&#160;![Word Puzzle on Wood](http://blog.spencen.com/images/83489-72989/Word%20Puzzle%20on%20Wood_5.png "Word Puzzle on Wood")
+&#160;![Word Puzzle on Wood](/images/Word%20Puzzle%20on%20Wood_5.png "Word Puzzle on Wood")
 
 

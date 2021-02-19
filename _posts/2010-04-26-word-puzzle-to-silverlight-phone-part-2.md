@@ -20,6 +20,6 @@ Finally got interaction and feedback happening on the [Silverlight port of Word 
 Anyhow – now have a playable version on the emulator. Slow progress, but progress nonetheless.
   
 
-<a href="http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage2_4.png">![WordPuzzle_Stage2](http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage2_thumb_1.png "WordPuzzle_Stage2")</a>&#160; <a href="http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage2_EndGame_2.png">![WordPuzzle_Stage2_EndGame](http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage2_EndGame_thumb.png "WordPuzzle_Stage2_EndGame")</a>
+<a href="/images/WordPuzzle_Stage2_4.png">![WordPuzzle_Stage2](/images/WordPuzzle_Stage2_thumb_1.png "WordPuzzle_Stage2")</a>&#160; <a href="/images/WordPuzzle_Stage2_EndGame_2.png">![WordPuzzle_Stage2_EndGame](/images/WordPuzzle_Stage2_EndGame_thumb.png "WordPuzzle_Stage2_EndGame")</a>
 
 

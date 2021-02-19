@@ -51,7 +51,7 @@ But then there were the two super-budget items that almost defy reason. Whilst t
 
   
 
-<a href="http://blog.spencen.com/images/83489-72989/DSC08570.jpg" target="_blank">![DSC08570](http://blog.spencen.com/images/83489-72989/DSC08570_thumb.jpg "DSC08570")</a>&#160;&#160;&#160;&#160;&#160;&#160; <a href="http://blog.spencen.com/images/83489-72989/DSC08572.jpg" target="_blank">![DSC08572](http://blog.spencen.com/images/83489-72989/DSC08572_thumb.jpg "DSC08572")</a> 
+<a href="/images/DSC08570.jpg" target="_blank">![DSC08570](/images/DSC08570_thumb.jpg "DSC08570")</a>&#160;&#160;&#160;&#160;&#160;&#160; <a href="/images/DSC08572.jpg" target="_blank">![DSC08572](/images/DSC08572_thumb.jpg "DSC08572")</a> 
   
 
 >   

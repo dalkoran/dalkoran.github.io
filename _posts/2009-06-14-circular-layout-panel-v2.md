@@ -114,7 +114,7 @@ tags: []
 </SPAN><SPAN style="COLOR: blue">    &lt;/</SPAN><SPAN style="COLOR: #a31515">DockPanel</SPAN></FONT></FONT><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">&gt;
 &lt;/</SPAN><SPAN style="COLOR: #a31515">Window</SPAN><SPAN style="COLOR: blue">&gt;</SPAN></FONT></FONT></PRE><A href="http://11011.net/software/vspaste"></A>
 <P>Now produces…</P>
-<P>&nbsp;<IMG style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block; FLOAT: none; MARGIN-LEFT: auto; BORDER-TOP: 0px; MARGIN-RIGHT: auto; BORDER-RIGHT: 0px" title="CircularPanel - Normalised" border=0 alt="CircularPanel - Normalised" src="http://blog.spencen.com/images/83489-72989/CircularPanel%20-%20Normalised_3.png" width=371 height=349> </P>
+<P>&nbsp;<IMG style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block; FLOAT: none; MARGIN-LEFT: auto; BORDER-TOP: 0px; MARGIN-RIGHT: auto; BORDER-RIGHT: 0px" title="CircularPanel - Normalised" border=0 alt="CircularPanel - Normalised" src="/images/CircularPanel%20-%20Normalised_3.png" width=371 height=349> </P>
 <P>For reference this is so much easier than doing the same thing in WinForms. Custom layout panels really were quite a pain.</P>
 <P>Updated source code for CircularPanel is <A href="http://www.spencen.com/Downloads/CircularPanel.txt">here</A>.</P>
 

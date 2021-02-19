@@ -90,7 +90,7 @@ It works...
 
 
 
-![Discovering WPF Bindings](http://blog.spencen.com/images/83489-72989/Discovering%20WPF%20Bindings_3.png) 
+![Discovering WPF Bindings](/images/Discovering%20WPF%20Bindings_3.png) 
 
 
 

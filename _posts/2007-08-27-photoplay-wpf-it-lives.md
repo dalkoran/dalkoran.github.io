@@ -74,6 +74,6 @@ PhotoClass : UserControl
 
 
 
-![image](http://blog.spencen.com/images/83489-72989/image_2.png)
+![image](/images/image_2.png)
 
 

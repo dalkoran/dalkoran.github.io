@@ -27,7 +27,7 @@ tags: []
 &lt;</SPAN><SPAN style="COLOR: #a31515">TextBlock</SPAN><SPAN style="COLOR: blue">&gt;</SPAN><SPAN style="COLOR: #a31515">End.</SPAN><SPAN style="COLOR: blue">&lt;/</SPAN><SPAN style="COLOR: #a31515">TextBlock</SPAN></FONT></FONT><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">&gt;
 &lt;/</SPAN><SPAN style="COLOR: #a31515">panels</SPAN><SPAN style="COLOR: blue">:</SPAN><SPAN style="COLOR: #a31515">BoxPanel</SPAN></FONT></FONT><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">&gt;
 &lt;/</SPAN><SPAN style="COLOR: #a31515">panels</SPAN><SPAN style="COLOR: blue">:</SPAN><SPAN style="COLOR: #a31515">BoxPanel</SPAN><SPAN style="COLOR: blue">&gt;</SPAN></FONT></FONT></PRE><A href="http://11011.net/software/vspaste"></A>
-<P><A href="http://blog.spencen.com/images/83489-72989/BoxPanel%20-%20Layout%20Measures_2.png"><IMG style="BORDER-RIGHT-WIDTH: 0px; DISPLAY: inline; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" title="BoxPanel - Layout Measures" border=0 alt="BoxPanel - Layout Measures" src="http://blog.spencen.com/images/83489-72989/BoxPanel%20-%20Layout%20Measures_thumb.png" width=640 height=257></A> </P>
+<P><A href="/images/BoxPanel%20-%20Layout%20Measures_2.png"><IMG style="BORDER-RIGHT-WIDTH: 0px; DISPLAY: inline; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" title="BoxPanel - Layout Measures" border=0 alt="BoxPanel - Layout Measures" src="/images/BoxPanel%20-%20Layout%20Measures_thumb.png" width=640 height=257></A> </P>
 <P>&nbsp;</P>
 <P>Sound a bit obscure? Trust me, I had a reason <IMG border=0 src="http://blog.spencen.com/emoticons/smile.png">.</P>
 

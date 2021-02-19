@@ -12,13 +12,13 @@ tags: []
 For ages now I've had some XAML that consistently generates error messages in the Visual Studio designer. I've found this most frustrating because I was never sure quite what was wrong with the XAML. Compiling and running the application and it worked exactly how it was intended. But the designer simply refused to display it - instead giving this standard message.
  
 
-![Cider Invalid XAML Message](http://blog.spencen.com/images/83489-72989/Cider%20Invalid%20XAML%20Message_1.png)&nbsp;
+![Cider Invalid XAML Message](/images/Cider%20Invalid%20XAML%20Message_1.png)&nbsp;
  
 
 In the Error List I find:
  
 
-![Cider Invalid XAML Error](http://blog.spencen.com/images/83489-72989/Cider%20Invalid%20XAML%20Error_1.png) 
+![Cider Invalid XAML Error](/images/Cider%20Invalid%20XAML%20Error_1.png) 
  
 
 Huh? Sure indexes "Must be non-negative and less than the size of the collection." that makes sense. But which index? Line '1' Position '616' simply refers to the DataTemplate definition - but the whole template is considered "in error".

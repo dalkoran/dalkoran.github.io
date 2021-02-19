@@ -41,7 +41,7 @@ group.Children.Add(triangle);
 }
 <span style="color: rgb(43,145,175)">Geometry</span> outlinePath = group.GetOutlinedPathGeometry();
 <span style="color: rgb(0,0,255)">return</span> outlinePath;
-}![DrawingAStar](http://blog.spencen.com/images/83489-72989/DrawingAStar_3.png)</span></pre><a href="http://11011.net/software/vspaste"></a>
+}![DrawingAStar](/images/DrawingAStar_3.png)</span></pre><a href="http://11011.net/software/vspaste"></a>
 
     
     The code that I replaced that with the first time I actually used the Star class in an application (for a rating indicator) is shown below. It takes what I think is a much neater approach and is a little easier to configure with an inner and outer radius.

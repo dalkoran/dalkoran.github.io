@@ -15,6 +15,6 @@ There has to be some benefits to living in the US right? Some incentive. I mean 
 Well, of course it means you’re eligible for all those competitions that apply to US residents only. Like a [Windows Phone 7 giveaway](http://www.hanselman.com/blog/WINAFREEPhoneWithLikeNOEffortAndAttendTheWindowsPhone7DeveloperLaunch.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+ScottHanselman+%28Scott+Hanselman+-+ComputerZen.com%29) courtesy of Scott Hanselman.
   
 
-<a href="http://www.msdnevents.com/wp7devlaunch/">![wp7_signature_banner_lg](http://blog.spencen.com/images/83489-72989/wp7_signature_banner_lg_3.jpg "wp7_signature_banner_lg")</a>
+<a href="http://www.msdnevents.com/wp7devlaunch/">![wp7_signature_banner_lg](/images/wp7_signature_banner_lg_3.jpg "wp7_signature_banner_lg")</a>
 
 

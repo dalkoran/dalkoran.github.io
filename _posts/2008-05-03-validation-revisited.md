@@ -29,7 +29,7 @@ I'm going to start with the Validation framework that I've blogged about [previo
 
  
 
-![WorkingArea](http://blog.spencen.com/images/83489-72989/WorkingArea_5.png) The basis for this ValidationEngine is the abstract ValidationRule class. Derived classes are responsible for validating a provided value. If the value does not violate the rule then a standard "passed" result is returned. Otherwise the rule is responsible for constructing a message that describes why the value didn't pass. 
+![WorkingArea](/images/WorkingArea_5.png) The basis for this ValidationEngine is the abstract ValidationRule class. Derived classes are responsible for validating a provided value. If the value does not violate the rule then a standard "passed" result is returned. Otherwise the rule is responsible for constructing a message that describes why the value didn't pass. 
  
 
 The message can be the default text defined against the class or one that is defined specific to the validation instance. Either method has the opportunity to use standard tokens that are defined by the rule, or derived from the context. For example a ValidationRule applied to a class property will have the DisplayName of the property made available to it for construction a standard or overridden message, e.g. "The {property} is a mandatory field and requires a value to be entered."
@@ -51,7 +51,7 @@ Severity is used to determine whether the rule violation is indicative of an err
 
  
 
-![IAttributeRuleProvider](http://blog.spencen.com/images/83489-72989/IAttributeRuleProvider_3.png) The easiest method of assigning ValidationRules is to decorate the business entities with attributes (a very common approach). This is made very simple by having an IAttributeRuleProvider interface. Any attribute class that implements this interface is responsible for generating one or more ValidationRules via its GetRules method that will be applied against the entity itself or an entity property (depending on where the attribute was placed).
+![IAttributeRuleProvider](/images/IAttributeRuleProvider_3.png) The easiest method of assigning ValidationRules is to decorate the business entities with attributes (a very common approach). This is made very simple by having an IAttributeRuleProvider interface. Any attribute class that implements this interface is responsible for generating one or more ValidationRules via its GetRules method that will be applied against the entity itself or an entity property (depending on where the attribute was placed).
  
 
 For example, say you create a new Attribute that allows for string properties to be further defined by nominating them as URLs, e-mail addresses, phone numbers etc. By having your Attribute implement IAttributeRuleProvider you could ensure that a ValidationRule is automatically assigned by the AttributeRuleProvider. In this example it may be that it simple returns a RegEx ValidationRule which the regular expression specific to the string type.
@@ -61,7 +61,7 @@ For example, say you create a new Attribute that allows for string properties to
 
  
 
-![IValidator](http://blog.spencen.com/images/83489-72989/IValidator_3.png) The Validation of ValidationRules is performed by an IValidator. There are currently two types of IValidators, inheriting from a common abstract Validator class. The EntityValidator which can validate rules against a class instance and uses the INotifyPropertyChanged interface to optionally keep executing the rules. The other is a FormValidator which extends the base implementation with knowledge about UI elements. For instance it allows validation to be performed against an unbound control, and has the capability of tying business properties back to any control that they may be bound to for error notification.
+![IValidator](/images/IValidator_3.png) The Validation of ValidationRules is performed by an IValidator. There are currently two types of IValidators, inheriting from a common abstract Validator class. The EntityValidator which can validate rules against a class instance and uses the INotifyPropertyChanged interface to optionally keep executing the rules. The other is a FormValidator which extends the base implementation with knowledge about UI elements. For instance it allows validation to be performed against an unbound control, and has the capability of tying business properties back to any control that they may be bound to for error notification.
  
 
 IValidators can be nested. In this scenario when they are asked to Validate they will also call Validate on each of their child IValidators. Also there IsValid property will only become true if all child IValidators also have their IsValid property being true. A common usage here might be to have a FormValidator that is responsible for validation form specific rules which has child IValidators for each business entity enable for updating.

@@ -21,7 +21,7 @@ When you connect to Live Mesh it starts a remote desktop session in a window - c
 [Connect](http://connect.microsoft.com) will help shape the product. 
  
 
-![Live Mesh Connect](http://blog.spencen.com/images/83489-72989/Live%20Mesh%20Connect_3.png) 
+![Live Mesh Connect](/images/Live%20Mesh%20Connect_3.png) 
  
 
 I'm still waiting on an invite to the developer Tech Preview to see what the Live Mesh APIs look like.

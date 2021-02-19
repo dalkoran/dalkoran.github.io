@@ -37,6 +37,6 @@ This is was what finally made it so obvious. Someone at Microsoft must have got 
 And so the seed was planted and no doubt after years of searching that nameless irked Microsoft employee has found (in places no browser should be forced to go) the Akamai Download Manager. 
  
 
-<a href="http://blog.spencen.com/images/83489-72989/Download%20Manager_4.png" target="_blank">![Download Manager](http://blog.spencen.com/images/83489-72989/Download%20Manager_thumb_1.png)</a>
+<a href="/images/Download%20Manager_4.png" target="_blank">![Download Manager](/images/Download%20Manager_thumb_1.png)</a>
 
 

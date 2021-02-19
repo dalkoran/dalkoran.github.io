@@ -176,7 +176,7 @@ Selection = e.Result;
     
 
     
-    ![WPF Exception](http://blog.spencen.com/images/83489-72989/WPF%20Exception_3.png) 
+    ![WPF Exception](/images/WPF%20Exception_3.png) 
     
 
     

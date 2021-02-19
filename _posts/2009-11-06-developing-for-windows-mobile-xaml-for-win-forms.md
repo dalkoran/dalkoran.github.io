@@ -101,6 +101,6 @@ HostedControl.Size = newSize;
 <a href="http://11011.net/software/vspaste"></a>
 
 
-![MobileUI_Screenshot 5](http://blog.spencen.com/images/83489-72989/MobileUI_Screenshot%205_1.png "MobileUI_Screenshot 5")
+![MobileUI_Screenshot 5](/images/MobileUI_Screenshot%205_1.png "MobileUI_Screenshot 5")
 
 

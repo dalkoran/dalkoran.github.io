@@ -15,19 +15,19 @@ For the last week and a half I’ve been lucky enough to take some leave and wor
 The view from my study window is better than the view from my third floor city office.
   
 
-![DSC09528-34 Stitch](http://blog.spencen.com/images/83489-72989/DSC09528-34%20Stitch_3.jpg "DSC09528-34 Stitch") 
+![DSC09528-34 Stitch](/images/DSC09528-34%20Stitch_3.jpg "DSC09528-34 Stitch") 
   
 
 The coffee is better, closer and comes with snacks.
   
 
-![DSC09503](http://blog.spencen.com/images/83489-72989/DSC09503_1.jpg "DSC09503") 
+![DSC09503](/images/DSC09503_1.jpg "DSC09503") 
   
 
 No background chatter, instead I have the rare opportunity to really crank up the music – awesome boost to developer productivity!
   
 
-![Play List](http://blog.spencen.com/images/83489-72989/Play%20List_1.png "Play List") 
+![Play List](/images/Play%20List_1.png "Play List") 
   
 
 No 2+ hour commute. On the surface this would seem to be a huge benefit, but it does come with drawbacks. My daily commute normally involves walking 4km and I get precious little other daily exercise these days. Also, commute time via bus is my allocated reading and podcast listening time – so I’ve been getting a little behind there.
@@ -36,7 +36,7 @@ No 2+ hour commute. On the surface this would seem to be a huge benefit, but it 
 I also got to watch my son participate in his first Grand Prix event – priceless!
   
 
-![DSC09535](http://blog.spencen.com/images/83489-72989/DSC09535_1.jpg "DSC09535") 
+![DSC09535](/images/DSC09535_1.jpg "DSC09535") 
   
 
 Overall a great experience. I thoroughly recommend it!

@@ -20,7 +20,7 @@ Rules can be provided to a Validator in two ways. The first is to simply registe
 validator.RegisterRule(<span style="color: rgb(0,0,255)">this</span>, asyncRule);</span></pre><a href="http://11011.net/software/vspaste"><a href="http://11011.net/software/vspaste"></a>
 
     
-    ![IValidationRuleProvider](http://blog.spencen.com/images/83489-72989/IValidationRuleProvider_6.png) The second is to nominate an IValidationRuleProvider by adding it to the RuleProviders collection property. A RuleProvider is responsible for providing zero or more ValidationRules to the Validator when it is asked to validate an object instance for the first time. An example implementation is the EntityRuleProvider class which creates validation rules&nbsp; by using TypeDescriptor methods to iterate over all Property and Type level Attributes searching for those that implement the IAttributeRuleProvider interface (see below). 
+    ![IValidationRuleProvider](/images/IValidationRuleProvider_6.png) The second is to nominate an IValidationRuleProvider by adding it to the RuleProviders collection property. A RuleProvider is responsible for providing zero or more ValidationRules to the Validator when it is asked to validate an object instance for the first time. An example implementation is the EntityRuleProvider class which creates validation rules&nbsp; by using TypeDescriptor methods to iterate over all Property and Type level Attributes searching for those that implement the IAttributeRuleProvider interface (see below). 
     <pre class="code"><span style="font-size: 8pt; font-family: verdana"><span style="color: rgb(0,128,0)">// Create an EntityValidator for each business model class that requires validation.
 </span><span style="color: rgb(43,145,175)">EntityValidator</span> holidayValidator = <span style="color: rgb(0,0,255)">new</span> <span style="color: rgb(43,145,175)">EntityValidator</span>();
 <span style="color: rgb(0,128,0)">// Register the entity with the validator - this will create all the necessary rules as
@@ -37,7 +37,7 @@ validator.RegisterRule(<span style="color: rgb(0,0,255)">this</span>, asyncRule)
     
 
     
-    <a href="http://blog.spencen.com/images/83489-72989/IValidationValueProvider_2.png">![IValidationValueProvider](http://blog.spencen.com/images/83489-72989/IValidationValueProvider_thumb.png)</a> This interface is used by the ValidationRules themselves. When a rule is Validated by a Validator it is passed a single value. This value will be the instance that the Validator has been asked to Validate. For example an EntityValidator may use INotifyPropertyChanged to validate a business entity on every property change - and the business entity instance would be passed to the ValidationRule. 
+    <a href="/images/IValidationValueProvider_2.png">![IValidationValueProvider](/images/IValidationValueProvider_thumb.png)</a> This interface is used by the ValidationRules themselves. When a rule is Validated by a Validator it is passed a single value. This value will be the instance that the Validator has been asked to Validate. For example an EntityValidator may use INotifyPropertyChanged to validate a business entity on every property change - and the business entity instance would be passed to the ValidationRule. 
     
 
     
@@ -62,7 +62,7 @@ validator.RegisterRule(<span style="color: rgb(0,0,255)">this</span>, asyncRule)
     
 
     
-    ![IAttributeRuleProvider](http://blog.spencen.com/images/83489-72989/IAttributeRuleProvider_6.png) 
+    ![IAttributeRuleProvider](/images/IAttributeRuleProvider_6.png) 
     
 
     
@@ -131,7 +131,7 @@ This abstract class is used to determine the context in which a ValidationRule f
 
 
 
-![ValidationContext](http://blog.spencen.com/images/83489-72989/ValidationContext_3.png) 
+![ValidationContext](/images/ValidationContext_3.png) 
 
 
 

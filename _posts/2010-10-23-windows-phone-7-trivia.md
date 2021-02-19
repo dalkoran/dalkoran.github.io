@@ -27,7 +27,7 @@ The OS comes with a pretty neat version of PowerPoint. It lets you playback your
 **Buying a phone**
   
 
-![Telstra HTC Mozart](http://blog.spencen.com/images/83489-72989/Telstra%20HTC%20Mozart_1.png "Telstra HTC Mozart")Of all the retail package/plans I’ve seen to this point Australia’s Telstra seems to have the sweetest deal. They are doing the HTC Mozart for $0 up front on a $49 per month plan that includes generous call/sms caps plus 500Mb of data. So all up that’s AU$1176 for two years of Windows Phone goodness. (The Aussie dollar is currently a fraction under the US dollar). Telstra have plenty of flaws (there billing website is the worst of any I’ve had to use) but there network is 4G in all major Australian cities and is by far the best network in that country.
+![Telstra HTC Mozart](/images/Telstra%20HTC%20Mozart_1.png "Telstra HTC Mozart")Of all the retail package/plans I’ve seen to this point Australia’s Telstra seems to have the sweetest deal. They are doing the HTC Mozart for $0 up front on a $49 per month plan that includes generous call/sms caps plus 500Mb of data. So all up that’s AU$1176 for two years of Windows Phone goodness. (The Aussie dollar is currently a fraction under the US dollar). Telstra have plenty of flaws (there billing website is the worst of any I’ve had to use) but there network is 4G in all major Australian cities and is by far the best network in that country.
   
 
 [http://www.telstra.com.au/mobile/phones/windows7/index.html?ti=TR:TR:Oct10:htcmozart:TCOMindex:325x200](http://www.telstra.com.au/mobile/phones/windows7/index.html?ti=TR:TR:Oct10:htcmozart:TCOMindex:325x200)

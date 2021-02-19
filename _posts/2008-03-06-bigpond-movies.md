@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-I'm a big fan of Windows Media Center. At home we only have one television that actually gets used - and everything we watch comes through the attached Media Center PC. Whether that be live TV, recorded TV, home video or downloaded video. ![Building the Home Theatre PC](http://blog.spencen.com/images/83489-72989/DSC04682_1.jpg)
+I'm a big fan of Windows Media Center. At home we only have one television that actually gets used - and everything we watch comes through the attached Media Center PC. Whether that be live TV, recorded TV, home video or downloaded video. ![Building the Home Theatre PC](/images/DSC04682_1.jpg)
  
 
 The HTPC is home assembled and running Windows Media Center 2005 (Rollup 2). It was mindbogglingly finicky to install so I've never bothered trying to upgrade to Windows Vista. Besides which the wife would be most irate if it went offline - she's come to take the pausing of live TV for granted and can't seem to do without it. Being difficult to install is much the fault of the TV Tuner card hardware and software as it is Media Center (reminds me of the early video editing days, and even earlier desktop publishing days). Also - being in Australia we have to use shareware TV guide software which comes in several components that must be integrated correctly. Oh and don't forget downloading your own MPEG video codec. 
@@ -32,12 +32,12 @@ As a rule I don't watch many videos. The last time I rented a movie was about 10
 Once you've selected added movies to your cart and checked out...
  
 
-![Bigpond Movies Move Download Info](http://blog.spencen.com/images/83489-72989/Bigpond%20Movies%20Move%20Download%20Info_3.png)
+![Bigpond Movies Move Download Info](/images/Bigpond%20Movies%20Move%20Download%20Info_3.png)
  
 
 You are taken to the My Downloads page where you can check the status of the movies you've ordered. This has a UI similar to the XBOX with smoothly scrolling vertical tabs. The movies are large (e.g. 1.4 Gb) but even on my modest 1500Kb connection they are ready for watching in about 10 minutes as the video is buffered.
  
 
-![Bigpond Movies](http://blog.spencen.com/images/83489-72989/Bigpond%20Movies_3.png)
+![Bigpond Movies](/images/Bigpond%20Movies_3.png)
 
 

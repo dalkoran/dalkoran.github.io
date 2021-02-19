@@ -63,7 +63,7 @@ The only code required in the form code-behind is the instantiation of the contr
 In addition to setting the Text (via binding), Enabled and Visibility properties I'm also using the CommandBinder to build a groovy Tooltip complete with input key shortcuts.
 
 
-![XAML Ribbon with Tooltip](http://blog.spencen.com/images/83489-72989/XAML%20Ribbon%20with%20Tooltip_1.png) 
+![XAML Ribbon with Tooltip](/images/XAML%20Ribbon%20with%20Tooltip_1.png) 
 
 
 

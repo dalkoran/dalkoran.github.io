@@ -21,13 +21,13 @@ The class diagram below gives an indication of where I’m currently at. Everyth
 &#160;
   
 
-<a href="http://blog.spencen.com/images/83489-72989/Spencen.Mobile.UI_2.png" target="_blank">![Spencen.Mobile.UI](http://blog.spencen.com/images/83489-72989/Spencen.Mobile.UI_thumb.png "Spencen.Mobile.UI")</a> 
+<a href="/images/Spencen.Mobile.UI_2.png" target="_blank">![Spencen.Mobile.UI](/images/Spencen.Mobile.UI_thumb.png "Spencen.Mobile.UI")</a> 
   
 
 As one example of compositing controls I used a multi-part windmill.
   
 
-<a href="http://www.spencen.com/Downloads/winmo_animation_spinning.wmv">![Windows Mobile Spinning Wheel Thing_Thumb](http://blog.spencen.com/images/83489-72989/Windows%20Mobile%20Spinning%20Wheel%20Thing_Thumb_3.jpg "Windows Mobile Spinning Wheel Thing_Thumb")</a> 
+<a href="http://www.spencen.com/Downloads/winmo_animation_spinning.wmv">![Windows Mobile Spinning Wheel Thing_Thumb](/images/Windows%20Mobile%20Spinning%20Wheel%20Thing_Thumb_3.jpg "Windows Mobile Spinning Wheel Thing_Thumb")</a> 
   
 
 Defined in code as:

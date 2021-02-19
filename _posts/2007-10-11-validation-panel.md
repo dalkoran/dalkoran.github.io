@@ -77,7 +77,7 @@ This displays the panel as shown below which is fairly standard for a message di
 
 
 
-![ThemedStatusPanel](http://blog.spencen.com/images/83489-72989/ThemedStatusPanel_1.png) 
+![ThemedStatusPanel](/images/ThemedStatusPanel_1.png) 
 
 
 
@@ -85,7 +85,7 @@ I then went ahead and created a customised style that changes not just colours b
 
 
 
-![StyledStatusPanel](http://blog.spencen.com/images/83489-72989/StyledStatusPanel_3.png) 
+![StyledStatusPanel](/images/StyledStatusPanel_3.png) 
 
 
 

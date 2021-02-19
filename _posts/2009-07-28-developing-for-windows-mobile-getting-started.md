@@ -21,6 +21,6 @@ Here’s a screenshot of my original Bus Timetable applet (its just too trivial 
 [WinForms Transitions](http://blog.spencen.com/2007/12/11/winforms-animation-part-2.aspx) code to the Windows CF. Even this was a no-go though – because although it contains plenty of base classes and helper methods for transforming and hit testing objects it relies heavily on using GraphicsContainer to do the actual transforms. These aren’t supported by the Compact Framework. So, I started from scratch, building a simple graphics library that will let me scale, rotate and translate graphic primitives. So far I have a spinning/zoomable rectangle – guess you gotta start somewhere.
   
 
-![MobileTransitions](http://blog.spencen.com/images/83489-72989/MobileTransitions_1.png "MobileTransitions")
+![MobileTransitions](/images/MobileTransitions_1.png "MobileTransitions")
 
 

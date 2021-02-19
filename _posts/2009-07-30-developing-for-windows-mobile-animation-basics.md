@@ -18,7 +18,7 @@ So far I have support only for polygons, but that includes hit testing, transfor
 Hopefully I’ll post more about this (with source code) soon – but <a href="http://www.spencen.com/Downloads/winmo_animation_test.wmv" target="_blank">here</a> is a quick demo video that I captured using Expression 3’s new screen capture utility (very neat!).
   
 
-<a href="http://www.spencen.com/Downloads/winmo_animation_test.wmv" target="_blank">![Windows Mobile Animations_Thumb](http://blog.spencen.com/images/83489-72989/Windows%20Mobile%20Animations_Thumb_3.jpg "Windows Mobile Animations_Thumb")</a> 
+<a href="http://www.spencen.com/Downloads/winmo_animation_test.wmv" target="_blank">![Windows Mobile Animations_Thumb](/images/Windows%20Mobile%20Animations_Thumb_3.jpg "Windows Mobile Animations_Thumb")</a> 
   
 
 So far I’ve been really happy with the performance. Will be interesting to see how much it degrades once I start adding gradients, transparency and more complex shapes. [Note that the video doesn’t really reflect the performance too well.]

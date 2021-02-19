@@ -28,7 +28,7 @@ Enter the Desk Genie the perfect [accessory for my HTC Touch Diamond2](http://ww
 2.  Act as a USB hub and power charger
 3.  Provide a platform on which to mount portable devices so they are easily visible when sat at a desk.  
 
-*<a href="http://blog.spencen.com/images/83489-72989/Desk%20Genie%20Unboxed_2.jpg">![Desk Genie Unboxed](http://blog.spencen.com/images/83489-72989/Desk%20Genie%20Unboxed_thumb.jpg "Desk Genie Unboxed")</a>&#160; <a href="http://blog.spencen.com/images/83489-72989/Desk%20Genie%20what%20you%20get_2.jpg">![Desk Genie what you get](http://blog.spencen.com/images/83489-72989/Desk%20Genie%20what%20you%20get_thumb.jpg "Desk Genie what you get")</a>*
+*<a href="/images/Desk%20Genie%20Unboxed_2.jpg">![Desk Genie Unboxed](/images/Desk%20Genie%20Unboxed_thumb.jpg "Desk Genie Unboxed")</a>&#160; <a href="/images/Desk%20Genie%20what%20you%20get_2.jpg">![Desk Genie what you get](/images/Desk%20Genie%20what%20you%20get_thumb.jpg "Desk Genie what you get")</a>*
   
 
 *What’s in the box? **Comes with plenty of charger connections – the only two of interest for me were the mini and micro-USB.*
@@ -37,7 +37,7 @@ Enter the Desk Genie the perfect [accessory for my HTC Touch Diamond2](http://ww
 I’ve had this item for almost a week now, and I’ve tried it out both at work and at home. Here’s my thoughts.
   
 
-### Pros<a href="http://blog.spencen.com/images/83489-72989/DSC01319.jpg">![DSC01319](http://blog.spencen.com/images/83489-72989/DSC01319_thumb.jpg "DSC01319")</a>
+### Pros<a href="/images/DSC01319.jpg">![DSC01319](/images/DSC01319_thumb.jpg "DSC01319")</a>
 
   
 
@@ -46,7 +46,7 @@ I’ve had this item for almost a week now, and I’ve tried it out both at work
 *   As a USB hub it works flawlessly (as you’d hope). I’ve had my 1.5 Tb external drives connected through this and copied large volumes of data without any issues.
 *   Has a very muted blue “glow” indicator to let you know its connected.  
 
-### Cons<a href="http://blog.spencen.com/images/83489-72989/DSC01321.jpg">![DSC01321](http://blog.spencen.com/images/83489-72989/DSC01321_thumb.jpg "DSC01321")</a>
+### Cons<a href="/images/DSC01321.jpg">![DSC01321](/images/DSC01321_thumb.jpg "DSC01321")</a>
 
   
 
@@ -54,7 +54,7 @@ I’ve had this item for almost a week now, and I’ve tried it out both at work
 *   The memory stick reader isn’t a perfect fit. I had to insert the memory stick on a slight angle – was a bit of a knack getting the hang of it but once you worked it out wasn’t a big deal. I’ve had the same problem with other multi-card readers (like the one in my Zalman HD160 HTPC case).
 *   When connecting my Blackberry via the power charger (with the included micro-USB adapter) it didn’t work. Not sure what the problem was – maybe not enough “juice”? Connected via one of the USB ports and everything was fine – connectivity and charging.  
 
-<a href="http://blog.spencen.com/images/83489-72989/DSC01319.jpg"></a>
+<a href="/images/DSC01319.jpg"></a>
   
 
 &#160; 

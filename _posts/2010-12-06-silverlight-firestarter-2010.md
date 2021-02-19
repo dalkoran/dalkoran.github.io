@@ -52,7 +52,7 @@ Each session gradually increased in terms of depth of coverage. The last session
 
   
 
-<a href="http://blog.spencen.com/images/83489-72989/Microsoft%20Campus%20Sign_2.jpg">![Microsoft Campus Sign](http://blog.spencen.com/images/83489-72989/Microsoft%20Campus%20Sign_thumb.jpg "Microsoft Campus Sign")</a>This was my first trip to Seattle and unfortunately I was on a very tight schedule. I arrived very early Thursday morning and left the same night (with 6 hours of flight time either side). I caught the local bus from my hotel in Bellevue to the campus and the area looked very suburban, yet very beautiful too (certainly compared to the concrete jungle that is Manhattan). I also had a detour through downtown Seattle on the way back to the airport in a taxi I was sharing. I was impressed with the city, though I’m told the real test as to whether you could live in Seattle is being able to live through your first winter there.
+<a href="/images/Microsoft%20Campus%20Sign_2.jpg">![Microsoft Campus Sign](/images/Microsoft%20Campus%20Sign_thumb.jpg "Microsoft Campus Sign")</a>This was my first trip to Seattle and unfortunately I was on a very tight schedule. I arrived very early Thursday morning and left the same night (with 6 hours of flight time either side). I caught the local bus from my hotel in Bellevue to the campus and the area looked very suburban, yet very beautiful too (certainly compared to the concrete jungle that is Manhattan). I also had a detour through downtown Seattle on the way back to the airport in a taxi I was sharing. I was impressed with the city, though I’m told the real test as to whether you could live in Seattle is being able to live through your first winter there.
   
 
 The event was held in Building 33 at the Conference Center. The room used to host the keynote and the developer sessions was a lecture theatre layout. This was awesome ‘cause it meant everyone could have their laptops set up the entire day, plugged in to power, recharging phones etc. I think about one third of the attendees at the keynote were Microsoft employees from teams other than the Silverlight team.
@@ -65,6 +65,6 @@ The event was held in Building 33 at the Conference Center. The room used to hos
 So will this Firestarter event satisfy the seemingly fickle Silverlight development community? Will they be prepared to wait more that 12 months between versions (shock, gasp)! I heard someone in the audience complain that there wasn’t enough Windows Phone content – which was kind of amusing. Too much focus on Windows Phone would have probably been exactly the wrong message to send to the community.
   
 
-So where does this leave WPF? No mention in the PDC keynote, no separate Firestarter event – is WPF dead!? Bring on WPF Firestarter 2011 ![Smile with tongue out](http://blog.spencen.com/images/83489-72989/wlEmoticon-smilewithtongueout_2.png)
+So where does this leave WPF? No mention in the PDC keynote, no separate Firestarter event – is WPF dead!? Bring on WPF Firestarter 2011 ![Smile with tongue out](/images/wlEmoticon-smilewithtongueout_2.png)
 
 

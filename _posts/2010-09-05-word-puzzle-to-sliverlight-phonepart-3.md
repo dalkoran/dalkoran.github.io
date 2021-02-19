@@ -20,7 +20,7 @@ Once I had eventually gotten it to work with the Beta I decided to create a Sett
 The settings page looked like this:
   
 
-<a href="http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage3_Settings_2.png">![WordPuzzle_Stage3_Settings](http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage3_Settings_thumb.png "WordPuzzle_Stage3_Settings")</a>
+<a href="/images/WordPuzzle_Stage3_Settings_2.png">![WordPuzzle_Stage3_Settings](/images/WordPuzzle_Stage3_Settings_thumb.png "WordPuzzle_Stage3_Settings")</a>
   
 
 It was bound to some of the properties on my pre-existing LetterBoardSetup class, e.g. AllowBackwards, AllowDiagonal, Width, Height.

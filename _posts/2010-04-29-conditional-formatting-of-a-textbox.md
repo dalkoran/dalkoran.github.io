@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-![FormatAndPaste](http://blog.spencen.com/images/83489-72989/FormatAndPaste_3.png "FormatAndPaste") 
+![FormatAndPaste](/images/FormatAndPaste_3.png "FormatAndPaste") 
   
 
 I recently came across a scenario where I needed to bind a TextBox to a domain property but also have the value formatted for display. To make things more interesting the format was to be dynamic and the value needed to be editable.
@@ -133,6 +133,6 @@ Generates the following grid, which allows for editing of the strongly typed val
 
 
 
-![FormatAndPaste](http://blog.spencen.com/images/83489-72989/FormatAndPaste_1.png "FormatAndPaste")
+![FormatAndPaste](/images/FormatAndPaste_1.png "FormatAndPaste")
 
 

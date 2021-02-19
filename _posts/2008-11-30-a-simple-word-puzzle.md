@@ -15,7 +15,7 @@ A few weeks back my young son showed me some work that he’d been doing at scho
 One night to get started and then a few bus trips later and I’ve got the following:
   
 
-![Word Puzzle 1](http://blog.spencen.com/images/83489-72989/Word%20Puzzle%201_1.png "Word Puzzle 1") 
+![Word Puzzle 1](/images/Word%20Puzzle%201_1.png "Word Puzzle 1") 
   
 
 The puzzle board itself is actually two ItemsControls layered on top of each other. The lower control has its items laid out using a UniformGrid and each item represents a letter tile. The topmost control superimposes the “solved” words on top of the lower grid. I originally tried doing this just be altering the style of the individual tiles – but this didn’t achieve the effect I was after and got overly complex when a single letter was used by multiple words.

@@ -18,7 +18,7 @@ With the release of the Windows Phone Series development tools however, I now ha
 Inspired by [Rob’s posts on porting NProf to Silverlight](http://devlicio.us/blogs/rob_eisenberg/archive/2010/04/06/porting-nhprof-from-wpf-to-silverlight-day-7.aspx?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Devlicious+%28Devlicio.us%29) I thought it may be of some interest to list off the issues that I come up against as I go through the process of porting. This first list represents me starting a new Windows Phone project and copying over classes and XAML files to get *something* to compile and look recognizable. The following represents about 2 hours work:
   
 
-<a href="http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage1_4.png">![WordPuzzle_Stage1](http://blog.spencen.com/images/83489-72989/WordPuzzle_Stage1_thumb_1.png "WordPuzzle_Stage1")</a> 
+<a href="/images/WordPuzzle_Stage1_4.png">![WordPuzzle_Stage1](/images/WordPuzzle_Stage1_thumb_1.png "WordPuzzle_Stage1")</a> 
   
 
 However, along the way I came across this list of issues:

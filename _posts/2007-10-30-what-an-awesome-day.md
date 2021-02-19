@@ -33,7 +33,7 @@ On the way home I remember that today is the 30th October and why that's importa
 Day status - *Awesome*!
  
 
-![Dell UltraSharp 2407WFP Font](http://blog.spencen.com/images/83489-72989/Dell%20UltraSharp%202407WFP%20Font_3.jpg)&nbsp;![Dell UltraSharp 2407WFP Back](http://blog.spencen.com/images/83489-72989/Dell%20UltraSharp%202407WFP%20Back_3.jpg)&nbsp;&nbsp;&nbsp; 
+![Dell UltraSharp 2407WFP Font](/images/Dell%20UltraSharp%202407WFP%20Font_3.jpg)&nbsp;![Dell UltraSharp 2407WFP Back](/images/Dell%20UltraSharp%202407WFP%20Back_3.jpg)&nbsp;&nbsp;&nbsp; 
  
 
 Big thanks to Microsoft Europe for the prize and Carl and Richard for an awesome show. I wonder what I'll get in the mail first - the <a href="http://blog.spencen.com/2007/10/04/winner.aspx" target="_blank">Brain Bag</a> or the monitor?

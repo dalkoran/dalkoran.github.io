@@ -38,19 +38,19 @@ Now I’m not sure how much real-world value this panel has – but I did get th
 Set StartAngle = 0, EndAngle = 1080 and then have each element decrease the RadiusScaleX/Y via binding. This produces a nice sprial.
   
 
-![CircularPanel - Spiral](http://blog.spencen.com/images/83489-72989/CircularPanel%20-%20Spiral_1.png "CircularPanel - Spiral") 
+![CircularPanel - Spiral](/images/CircularPanel%20-%20Spiral_1.png "CircularPanel - Spiral") 
   
 
 Add 12 auto-placed elements, then three more using FixedAngle combined with an animation to produce a clock with hour, minute and second hands.
   
 
-![CircularPanel - Clock](http://blog.spencen.com/images/83489-72989/CircularPanel%20-%20Clock_1.png "CircularPanel - Clock") 
+![CircularPanel - Clock](/images/CircularPanel%20-%20Clock_1.png "CircularPanel - Clock") 
   
 
 Use an animation over StartAngle and EndAngle to produce an effect similar to opening a fan. 
   
 
-![CircularPanel - Fan](http://blog.spencen.com/images/83489-72989/CircularPanel%20-%20Fan_1.png "CircularPanel - Fan")
+![CircularPanel - Fan](/images/CircularPanel%20-%20Fan_1.png "CircularPanel - Fan")
   
 
 Here’s the interesting code from the ArrangeOverride method on CircularPanel.

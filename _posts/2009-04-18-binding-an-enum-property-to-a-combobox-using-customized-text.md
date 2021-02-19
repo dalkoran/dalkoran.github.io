@@ -16,13 +16,13 @@ tags: []
 I want to data bind a property on my Model to a ComboBox that allows selection from a list of Enum values. For example, my **Person** class has a **HighestEducationLevel** property of type **EducationLevel**.
   
 
-&#160;![GridEditing](http://blog.spencen.com/images/83489-72989/GridEditing_6.png "GridEditing") 
+&#160;![GridEditing](/images/GridEditing_6.png "GridEditing") 
   
 
 The second part of this problem is that I want to provide an optional customized text description for each of my enumeration values. For example, the enumeration value** EducationLevel.PreSchool** should be displayed as “Pre-school” in the ComboBox.
   
 
-![GridEditing - TypeConverter ComboBox](http://blog.spencen.com/images/83489-72989/GridEditing%20-%20TypeConverter%20ComboBox_3.png "GridEditing - TypeConverter ComboBox") 
+![GridEditing - TypeConverter ComboBox](/images/GridEditing%20-%20TypeConverter%20ComboBox_3.png "GridEditing - TypeConverter ComboBox") 
   
 
 ### Solution 1 – Bind to Enum.GetValues()

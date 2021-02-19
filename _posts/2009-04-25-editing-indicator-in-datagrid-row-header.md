@@ -12,7 +12,7 @@ tags: []
 Editable grids will quite commonly show an indicator in the row header area to indicate that a row is currently being edited. This is trivial to achieve using Microsoft’s WPF DataGrid.
   
 
-&#160;![GridEditing - Edit Indicator](http://blog.spencen.com/images/83489-72989/GridEditing%20-%20Edit%20Indicator_6.png "GridEditing - Edit Indicator") 
+&#160;![GridEditing - Edit Indicator](/images/GridEditing%20-%20Edit%20Indicator_6.png "GridEditing - Edit Indicator") 
   
 
 All that is needed is a DataTemplate assigned to the RowHeaderTemplate property of the DataGrid. The template simply shows or hides the editing image based upon whether the current row is being edited.

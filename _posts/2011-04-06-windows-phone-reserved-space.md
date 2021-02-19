@@ -12,13 +12,13 @@ tags: []
 My Windows Phone is showing that almost half its paltry capacity of 8 GB is consumed by “reserved space and content from other computers”.
   
 
-![Windows Phone - Reserved Space](http://blog.spencen.com/images/83489-72989/Windows%20Phone%20-%20Reserved%20Space_3.png "Windows Phone - Reserved Space")
+![Windows Phone - Reserved Space](/images/Windows%20Phone%20-%20Reserved%20Space_3.png "Windows Phone - Reserved Space")
   
 
 I’ve gone into the Zune desktop software –&gt; Settings/Phone/Reserved Space and set the amount reserved to zero.
   
 
-![Windows Phone - Reserved Space of 0](http://blog.spencen.com/images/83489-72989/Windows%20Phone%20-%20Reserved%20Space%20of%200_3.png "Windows Phone - Reserved Space of 0")
+![Windows Phone - Reserved Space of 0](/images/Windows%20Phone%20-%20Reserved%20Space%20of%200_3.png "Windows Phone - Reserved Space of 0")
   
 
 So if the 3.36 GB isn’t “reserved” then it must be “content from other computers”. Hmm…. well I’ve never paired the phone with any other computer other than my [awesome laptop](http://blog.spencen.com/2010/04/06/new-laptop-ndash-sony-z-series.aspx), so what’s going on? [This article](http://zuneinsider.com/archive/2009/01/31/demystifying-quot-reserved-space-and-content-from-other-computers-if-any-quot.aspx) strives to explain what could be going on. You might have to read that twice – I know I did.
@@ -27,7 +27,7 @@ So if the 3.36 GB isn’t “reserved” then it must be “content from other c
 I tried the “Erase all content” button. The phone and Zune desktop software both showed zero music, video, pictures and podcasts. This had the following effect:
   
 
-![Windows Phone - Reserved Space with no Media](http://blog.spencen.com/images/83489-72989/Windows%20Phone%20-%20Reserved%20Space%20with%20no%20Media_3.png "Windows Phone - Reserved Space with no Media")
+![Windows Phone - Reserved Space with no Media](/images/Windows%20Phone%20-%20Reserved%20Space%20with%20no%20Media_3.png "Windows Phone - Reserved Space with no Media")
   
 
 I also found a few other links that asked the obvious question – how do I free up this capacity? Plenty of people questioning – but I didn’t find an answer that worked for me.
