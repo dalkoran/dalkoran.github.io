@@ -30,7 +30,7 @@ Login to my WHS box using [https://{myUniqueName}.homeserver.com](https://{myuni
 
 
 
-<a href="/images/Home%20Tab_1.png" target=_blank atomicselection="true">![Home Tab](/images/Home%20Tab_thumb_1.png)</a> 
+<a href="/images/Home%20Tab.png" target=_blank atomicselection="true">![Home Tab](/images/Home%20Tab.png)</a> 
 
 
 
@@ -42,7 +42,7 @@ Clicking on the Computers Tab shows a list of all the computers configured in my
 
 
 
-<a href="/images/Computers%20Tab_1.png" target=_blank atomicselection="true">![Computers Tab](/images/Computers%20Tab_thumb_1.png)</a> 
+<a href="/images/Computers%20Tab.png" target=_blank atomicselection="true">![Computers Tab](/images/Computers%20Tab.png)</a> 
 
 
 
@@ -50,7 +50,7 @@ From this we can see that of the three machines only the Media Center PC is curr
 
 
 
-<a href="/images/Dashboard%20Backup%20Tab_1.png" target=_blank atomicselection="true">![Dashboard Backup Tab](/images/Dashboard%20Backup%20Tab_thumb_1.png)</a> 
+<a href="/images/Dashboard%20Backup%20Tab.png" target=_blank atomicselection="true">![Dashboard Backup Tab](/images/Dashboard%20Backup%20Tab.png)</a> 
 
 
 
@@ -62,7 +62,7 @@ Clicking on the Wake On Lan tab gives us the following screen which shows which 
 
 
 
-<a href="/images/Dashboard%20WakeOnLan%20tab_1.png" target=_blank atomicselection="true">![Dashboard WakeOnLan tab](/images/Dashboard%20WakeOnLan%20tab_thumb_1.png)</a> 
+<a href="/images/Dashboard%20WakeOnLan%20tab.png" target=_blank atomicselection="true">![Dashboard WakeOnLan tab](/images/Dashboard%20WakeOnLan%20tab.png)</a> 
 
 
 
@@ -70,7 +70,7 @@ So from here we click on the machine that we wish to start and then click on the
 
 
 
-<a href="/images/Computers%20Tab%202_1.png" target=_blank atomicselection="true">![Computers Tab 2](/images/Computers%20Tab%202_thumb_1.png)</a> 
+<a href="/images/Computers%20Tab%202.png" target=_blank atomicselection="true">![Computers Tab 2](/images/Computers%20Tab%202.png)</a> 
 
 
 
@@ -78,7 +78,7 @@ After a few minutes we see that the machine is now available for connection. Woo
 
 
 
-![Login src=](/images/Login1.png) 
+![Login src=](/images/Login.png) 
 
 
 

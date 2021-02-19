@@ -18,7 +18,7 @@ I'd already gone down the path of having a tab control to separate the functiona
 So... how to convert the standard WPF controls into something more elegant - something looking a little like a Ribbon Bar perhaps? Well, I must say I had a blast doing this - and finally ended up with a prototype that managed to get reasonably close without having to use anything but XAML. All the magic is done simply using the standard WPF controls (TabControl, ToolBarTray, ToolBar, Button etc.) and some styles and templating.
  
 
-<a href="http://www.spencen.com/Downloads/RibbonBar.xaml" target="_blank">![XAML Ribbon Bar](/images/XAML%20Ribbon%20Bar_1.png)</a> 
+<a href="http://www.spencen.com/Downloads/RibbonBar.xaml" target="_blank">![XAML Ribbon Bar](/images/XAML%20Ribbon%20Bar.png)</a> 
  
 
 You can run this XAML file (click <a href="http://www.spencen.com/Downloads/RibbonBar.xaml" target="_blank">here</a> or on image above) to see how far I got with this approach. I tried hard to get the curvy tab headers and to remove the line between the tab and the page but couldn't come up with a solution in XAML alone that didn't involve fixing the tab header width. I took the button images out so the file could run stand-alone.

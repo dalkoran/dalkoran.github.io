@@ -12,7 +12,7 @@ tags: []
 **Menus**
  
 
-<a href="/images/PhotoPlay%20File%20Menu.png" atomicselection="true">![PhotoPlay File Menu](/images/PhotoPlay%20File%20Menu_thumb.png)</a>
+<a href="/images/PhotoPlay%20File%20Menu.png" atomicselection="true">![PhotoPlay File Menu](/images/PhotoPlay%20File%20Menu.png)</a>
  
 
  <table cellspacing="0" cellpadding="2" width="618" border="0" unselectable="on"> <tbody> <tr> <td valign="top" width="114">New Page</td> <td valign="top" width="502">Removes all images from the page and resets the page name to "New Page".</td></tr> <tr> <td valign="top" width="116">Open Page...</td> <td valign="top" width="502">Opens a page that has been previously saved.</td></tr> <tr> <td valign="top" width="118">Save Page</td> <td valign="top" width="502">Saves the current page using the file name last used to open or save the page. If the page is new (shown as "New Page" in the title bar) then the file name will be prompted as per Save Page As.</td></tr> <tr> <td valign="top" width="120">Save Page As...</td> <td valign="top" width="502">Prompts for a file name and if given saves the current page layout.</td></tr> <tr> <td valign="top" width="121">Load Photos...</td> <td valign="top" width="502">Prompts for a folder from which to load images. If a folder is selected all existing images on the page will be removed and replaced by the images from the folder. <br>Note: currently **all** files will be loaded - non-image files will be displayed using just their filename. The reason for this is that the actual image data is loaded in the background after the files are enumerated and displayed as square placeholders.</td></tr> <tr> <td valign="top" width="122">Exit</td> <td valign="top" width="502">Closes the application.</td></tr></tbody></table>

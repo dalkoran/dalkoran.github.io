@@ -12,7 +12,7 @@ tags: []
 Today the <a href="http://www.tombihn.com/page/001/PROD/300/TB0104" target="_blank">Tom Bihn Brain Bag</a> was delivered. The courier delivered it to my home whilst the wife was out and so they decided to throw the box over the garden gate. Amusingly the online UPS tracking certificate had "Signed by: DR SIDE GATE".
  
 
-<a href="/images/Tom%20Bihn%20Brain%20Bag_2.jpg" target="_blank">![Tom Bihn Brain Bag](/images/Tom%20Bihn%20Brain%20Bag_thumb.jpg)</a> 
+<a href="/images/Tom%20Bihn%20Brain%20Bag.jpg" target="_blank">![Tom Bihn Brain Bag](/images/Tom%20Bihn%20Brain%20Bag.jpg)</a> 
  
 
 The bag itself is a pretty plain affair with the normal array of pockets and compartments that you would expect from a good quality backpack. The shoulder straps, chest and waist fasteners were well fitting and I was quite surprised as to how "natural" it felt to wear - certainly more so than any other backpack I've tried.
@@ -37,13 +37,13 @@ Tom says: "Everyone gets a free cookie!"
 Sure enough inside the bag was my very own *Cougar Mountain* cookie with ingredients including chocolate liquor. I *must* be special ![](http://blog.spencen.com/emoticons/smile.png)
  
 
-<a href="/images/Couger%20Mountain%20Cookie_2.jpg" target="_blank">![Couger Mountain Cookie](/images/Couger%20Mountain%20Cookie_thumb.jpg)</a> 
+<a href="/images/Couger%20Mountain%20Cookie.jpg" target="_blank">![Couger Mountain Cookie](/images/Couger%20Mountain%20Cookie.jpg)</a> 
  
 
 Even their tag line is priceless: TOM BIHN - Portable Culture. 
  
 
-<a href="/images/Tom%20Bihn%20Packaging_2.jpg" target="_blank">![Tom Bihn Packaging](/images/Tom%20Bihn%20Packaging_thumb.jpg)</a> 
+<a href="/images/Tom%20Bihn%20Packaging.jpg" target="_blank">![Tom Bihn Packaging](/images/Tom%20Bihn%20Packaging.jpg)</a> 
  
 
 All this marketing - yet my wife somehow remains immune. She keeps calling it the Tim Bin Bag.

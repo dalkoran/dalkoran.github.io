@@ -51,6 +51,6 @@ The intellisense displays a little arrow against the standard method icon to ind
 
 
 
-&nbsp;![Intellisense drop down showing IsPrime extension method](/images/Intellisense%20drop%20down%20showing%20IsPrime%20extension%20method_1.png)
+&nbsp;![Intellisense drop down showing IsPrime extension method](/images/Intellisense%20drop%20down%20showing%20IsPrime%20extension%20method.png)
 
 

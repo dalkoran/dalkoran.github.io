@@ -7,5 +7,5 @@ comments: true
 categories: [Development]
 tags: []
 ---
-<DIV>Ok - so here is the mysterious applet.<BR><BR><IMG src="<BlogInfo:URL />/images/83489-72989/Page_b9.png" width=400 border=0><BR><BR>ClickOnce install from <A href="https://www.spencen.com/install/PhotoPlay/publish.htm">here</A>.<BR><BR>More details coming soon - but will have to wait till I come back from skiing this weekend!!</DIV>
+<DIV>Ok - so here is the mysterious applet.<BR><BR><IMG src="/images/83489-72989/Page_b9.png" width=400 border=0><BR><BR>ClickOnce install from <A href="https://www.spencen.com/install/PhotoPlay/publish.htm">here</A>.<BR><BR>More details coming soon - but will have to wait till I come back from skiing this weekend!!</DIV>
 

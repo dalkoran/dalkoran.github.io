@@ -38,7 +38,7 @@ Has anyone had a successful download under Vista?
 Hah! Works sooo much better under Windows XP. You can actually choose the location of your download file! Of course the resume still doesn't work so there's little chance of ever actually completing a download...
  
 
-![Akami Download Manager Failure](/images/Akami%20Download%20Manager%20Failure_1.png) 
+![Akami Download Manager Failure](/images/Akami%20Download%20Manager%20Failure.png) 
  
 
 I wonder who at Microsoft I should be contacting?
