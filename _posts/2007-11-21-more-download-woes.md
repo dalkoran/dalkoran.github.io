@@ -1,14 +1,10 @@
----
-layout: post
-title: "More Download Woes"
+---title: "More Download Woes"
 date: 2007-11-21 07:10
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 So <a href="http://blog.spencen.com/2007/11/20/microsofts-download-mismanager.aspx" target="_blank">last night</a> the whole Download Manager thing was annoying and somewhat astonishing in terms of Microsoft being so relaxed about delivering such&nbsp;a dismal download experience for their enormous&nbsp;MSDN subscriber base.
  
 

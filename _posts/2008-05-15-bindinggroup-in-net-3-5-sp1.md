@@ -1,6 +1,4 @@
----
-layout: post
-title: "BindingGroup in .NET 3.5 SP1?"
+---title: "BindingGroup in .NET 3.5 SP1?"
 date: 2008-05-15 12:14
 author: spencen
 comments: true

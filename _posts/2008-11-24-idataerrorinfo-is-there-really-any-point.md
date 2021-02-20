@@ -1,14 +1,10 @@
----
-layout: post
-title: "IDataErrorInfo – is there really any point?"
+---title: "IDataErrorInfo – is there really any point?"
 date: 2008-11-24 13:48
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 When looking into data validation systems that focus around WinForms and WPF technologies the IDataErrorInfo interface is a common focus. Personally I’ve never been satisfied with this interface. Not only does it appear to have some very poorly named members, it just doesn’t seem anywhere near functional enough. Don’t get me wrong – its a great concept – it just seems to be a super-lightweight example.
   
 

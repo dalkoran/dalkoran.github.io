@@ -1,14 +1,10 @@
----
-layout: post
-title: "Porting WPF Word Puzzle to Windows Phone Silverlight – Part 1"
+---title: "Porting WPF Word Puzzle to Windows Phone Silverlight – Part 1"
 date: 2010-04-08 02:15
 author: spencen
 comments: true
 categories: [.NET, Development, Windows Phone, WPF]
 tags: []
 ---
-
-
 To date I’ve avoided doing any serious development in Silverlight. Every time I’ve tried to tackle it I get so frustrated with all the missing pieces. Besides which I’ve never had a good reason to do any Silverlight work – I’ve never been a fan of applications that run in a browser.
   
 

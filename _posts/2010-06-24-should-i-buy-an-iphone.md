@@ -1,14 +1,10 @@
----
-layout: post
-title: "Should I buy an iPhone?"
+---title: "Should I buy an iPhone?"
 date: 2010-06-24 03:33
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 I don’t own an iPhone – never have. In fact I’ve never purchased *any* Apple product. I get the distinct impression that they are simple not designed for me. They’re for normal people. Even when I think I should buy one of their products just to see what I’m missing out on I can’t bring myself to do it. It would be too embarrassing. I may as well go and but a T-shirt with “Apple Fanboy” written in large letters (though elegant and with just the right amount of whitespace). I even get embarrassed for other people when I see them using Apple products. I feel like I should take them aside and explain to them politely how they’ve been deluded into buying an overpriced, under-performing an ultimately unsatisfying product.
   
 

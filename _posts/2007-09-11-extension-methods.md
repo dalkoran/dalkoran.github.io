@@ -1,14 +1,10 @@
----
-layout: post
-title: "Extension Methods"
+---title: "Extension Methods"
 date: 2007-09-11 12:22
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
-
 This is one feature in C# 3.0 that I've been really looking forward to for a long time.
  
 

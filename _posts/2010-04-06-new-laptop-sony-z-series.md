@@ -1,14 +1,10 @@
----
-layout: post
-title: "New Laptop – Sony Z Series"
+---title: "New Laptop – Sony Z Series"
 date: 2010-04-06 03:08
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 The last two months have been pretty hectic for me… new job, new residence, new country/continent/hemisphere.
   
 

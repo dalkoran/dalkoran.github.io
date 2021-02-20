@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Editing Indicator in DataGrid Row Header"
 date: 2009-04-25 15:55
 author: spencen

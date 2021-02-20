@@ -1,14 +1,10 @@
----
-layout: post
-title: "XAML Ribbon Bar - Part 1"
+---title: "XAML Ribbon Bar - Part 1"
 date: 2008-03-05 12:28
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 I've been trying to dream up a functional but elegant user interface for my mystery app. At work I've been using the DevExpress WinForms control suite and I have to say I've been very impressed. Their ribbon bar in particular is pretty swish and seems to be very popular at the moment.
  
 

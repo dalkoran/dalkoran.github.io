@@ -1,14 +1,10 @@
----
-layout: post
-title: "A New Aussie Flavoured Podcast"
+---title: "A New Aussie Flavoured Podcast"
 date: 2009-12-22 12:40
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 ![](http://www.noisetosignal.com.au/franklyspeaking/wp-content/assets/logo_speaker_300.jpg)I’ve just started listened to the new *[Frankly Speaking](http://noisetosignal.com.au/franklyspeaking/)* podcast created by Australian Microsoft DPEs [Andrew Coates](http://blogs.msdn.com/acoat) and [Michael Kordahi](http://delicategeniusblog.com/). The guys are new to podcasting – and in the early episodes it shows – the sound levels are all over the place. What is great about the podcast however, is that it has a really Aussie flavour – for instance did you know:
   
 

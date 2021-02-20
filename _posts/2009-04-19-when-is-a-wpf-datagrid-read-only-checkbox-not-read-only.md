@@ -1,14 +1,10 @@
----
-layout: post
-title: "When is a WPF DataGrid read-only CheckBox not read-only?"
+---title: "When is a WPF DataGrid read-only CheckBox not read-only?"
 date: 2009-04-19 13:50
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 I found the answer to this riddle when I decided to style the **DataGridCheckBoxColumn** of Microsoft’s WPF DataGrid. By default the CheckBox displayed by the column template is not centered horizontally or vertically. I thought this looked at little tacky so I decided to apply a custom Style to the **ElementStyle** (and **EditElementStyle**) property.
   
 

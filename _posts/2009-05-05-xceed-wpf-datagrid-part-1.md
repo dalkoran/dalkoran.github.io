@@ -1,14 +1,10 @@
----
-layout: post
-title: "Xceed WPF DataGrid – Part 1"
+---title: "Xceed WPF DataGrid – Part 1"
 date: 2009-05-05 14:44
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 ### Vendor Choice
 
   

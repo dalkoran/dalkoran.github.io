@@ -1,14 +1,10 @@
----
-layout: post
-title: "WPF Jobs and Cider"
+---title: "WPF Jobs and Cider"
 date: 2008-03-05 15:32
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 Some <a href="http://windowsclient.net/jobs/#cider" target="_blank">great sounding jobs up for grabs at Redmond</a>. It appears his soul is currently consumed with <a href="http://www.paulstovell.net/blog/index.php/fluent-synclinq-tests/" target="_blank">LINQ</a> but based on his astute observations <a href="http://paulstovell.net/blog/index.php/evolution-of-the-wpf-designer/" target="_blank">here</a> I think maybe <a href="http://www.paulstovell.net/" target="_blank">Paul</a> should be applying for a decision making position on the Cider team!
  
 

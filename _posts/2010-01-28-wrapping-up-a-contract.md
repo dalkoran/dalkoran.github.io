@@ -1,14 +1,10 @@
----
-layout: post
-title: "Wrapping up a contract"
+---title: "Wrapping up a contract"
 date: 2010-01-28 11:56
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 This is my last week at my current employer. I’ve been spending most of my time updating the Wiki, doing some last minute branding changes, commenting code and general housekeeping.
   
 

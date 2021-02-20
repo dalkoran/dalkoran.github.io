@@ -1,14 +1,10 @@
----
-layout: post
-title: "My views on Windows Phone 7 Series"
+---title: "My views on Windows Phone 7 Series"
 date: 2010-04-08 00:55
 author: spencen
 comments: true
 categories: [Development, General, Windows Phone]
 tags: []
 ---
-
-
 I have mixed feelings about Windows Phone 7 Series. Whilst the new user interface is refreshingly different I’m not overly optimistic about its effectiveness. As more information about the new OS was made available I began to get a better idea of the target audience.
   
 

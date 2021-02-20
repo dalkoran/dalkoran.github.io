@@ -1,14 +1,10 @@
----
-layout: post
-title: "New Opportunities"
+---title: "New Opportunities"
 date: 2010-01-18 01:35
 author: spencen
 comments: true
 categories: [Development, General]
 tags: []
 ---
-
-
 I’ve lived and worked in Adelaide for my entire professional career. I’m lucky enough never to have been without interesting work to do. In fact I look back on some of the positions that I’ve had and I feel very lucky. There is no doubt within my mind that the Adelaide job market has been very kind to me over the years.
   
 

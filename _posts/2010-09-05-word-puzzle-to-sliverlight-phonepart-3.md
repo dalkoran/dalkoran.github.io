@@ -1,14 +1,10 @@
----
-layout: post
-title: "Word Puzzle to Sliverlight Phone–Part 3"
+---title: "Word Puzzle to Sliverlight Phone–Part 3"
 date: 2010-09-05 02:56
 author: spencen
 comments: true
 categories: [.NET, Development, Windows Phone]
 tags: []
 ---
-
-
 Last night I dusted off [Word Puzzle](http://blog.spencen.com/2010/04/26/word-puzzle-to-silverlight-phone-ndash-part-2.aspx) and decided to try out tombstoning in Window Phone 7 – just to see how much of a pain this is really going to be. The first hurdle I had was to convert the existing solution from the Windows Phone CTP to the Beta release. This turned out to be quite a bit harder than I had expected. On the upside I got a pretty good idea of some of the changes that were made – ditching the resource files, using the manifest to nominate the launch window, assembly consolidation etc.
   
 

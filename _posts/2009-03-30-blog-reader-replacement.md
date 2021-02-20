@@ -1,14 +1,10 @@
----
-layout: post
-title: "Blog Reader Replacement"
+---title: "Blog Reader Replacement"
 date: 2009-03-30 12:14
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 *[Warning: This is largely a rant… it is by no means a serious review of any of these products.]*
   
 

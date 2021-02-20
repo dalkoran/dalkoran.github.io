@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "XAML and WPF - or &quot;I'm seeing stars&quot;"
 date: 2007-11-08 14:54
 author: spencen

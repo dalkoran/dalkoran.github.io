@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "I Command Thee - Exception?"
 date: 2007-09-23 21:51
 author: spencen

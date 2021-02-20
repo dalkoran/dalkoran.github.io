@@ -1,6 +1,4 @@
----
-layout: post
-title: "PhotoPlay v0.1 - WinForms"
+---title: "PhotoPlay v0.1 - WinForms"
 date: 2007-08-15 14:03
 author: spencen
 comments: true

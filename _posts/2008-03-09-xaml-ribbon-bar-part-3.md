@@ -1,14 +1,10 @@
----
-layout: post
-title: "XAML Ribbon Bar - Part 3"
+---title: "XAML Ribbon Bar - Part 3"
 date: 2008-03-09 15:13
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 Doh! Various remembered references to WPF element z-ordering and ClipToBounds properties suddenly all came together with the realisation that negative values are allowed on the Margin property!
  
 

@@ -1,14 +1,10 @@
----
-layout: post
-title: "The King Returneth"
+---title: "The King Returneth"
 date: 2007-11-22 07:08
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 I never in my wildest dreams imagined that I would be so happy to see the Microsoft File Transfer Manager. Its amazing what the *<a href="http://blog.spencen.com/2007/11/21/more-download-woes.aspx" target="_blank">Horrors of Akamai</a>* can do to a person.
  
 

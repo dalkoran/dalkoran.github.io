@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Thumbnail Solutions"
 date: 2008-01-10 12:34
 author: spencen

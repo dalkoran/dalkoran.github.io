@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Why DataTemplates Rock!"
 date: 2008-08-02 15:45
 author: spencen

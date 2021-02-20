@@ -1,14 +1,10 @@
----
-layout: post
-title: "Tech-Ed Australia 2009"
+---title: "Tech-Ed Australia 2009"
 date: 2009-09-09 11:28
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
-
-
 [last year](http://blog.spencen.com/2008/08/28/tech-ed-2008.aspx).
   
 

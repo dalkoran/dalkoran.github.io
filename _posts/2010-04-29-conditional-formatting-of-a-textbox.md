@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Conditional Formatting of a TextBox"
 date: 2010-04-29 04:52
 author: spencen

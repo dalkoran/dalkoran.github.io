@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "XAML Ribbon Bar - Part 2"
 date: 2008-03-08 15:20
 author: spencen

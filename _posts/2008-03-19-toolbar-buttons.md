@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "ToolBar Buttons"
 date: 2008-03-19 13:24
 author: spencen

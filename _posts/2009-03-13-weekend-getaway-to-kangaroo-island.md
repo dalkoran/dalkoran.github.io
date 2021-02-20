@@ -1,14 +1,10 @@
----
-layout: post
-title: "Weekend Getaway to Kangaroo Island"
+---title: "Weekend Getaway to Kangaroo Island"
 date: 2009-03-13 13:18
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 I spent last weekend away with the family touring around Kangaroo Island. I managed to take a few photos of the “mandatory” tourist spots. I’ve become quite a fan of taking panoramic photos the easy way – i.e. standing in one spot and taking multiple photos at different angles with a relatively constant horizon.
   
 

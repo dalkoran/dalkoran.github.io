@@ -1,6 +1,4 @@
----
-layout: post
-title: "My First Screencast"
+---title: "My First Screencast"
 date: 2008-07-12 15:48
 author: spencen
 comments: true

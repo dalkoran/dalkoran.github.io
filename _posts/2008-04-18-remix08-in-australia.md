@@ -1,14 +1,10 @@
----
-layout: post
-title: "ReMIX08 in Australia"
+---title: "ReMIX08 in Australia"
 date: 2008-04-18 11:56
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
-
-
 Well I've booked my flight, [registered](http://www.microsoft.com/australia/remix08/index.aspx) and got the day off work (in that order). I am **not** a "web guy". I'll go on record as stating that I was over JavaScript and HTML back in 2000. Whilst it was kinda fun to play with for a couple of months I'm not about to go writing any serious applications with those technologies. [I'll leave that to the hordes of happy web devs who somehow seem to enjoy it.]
  
 

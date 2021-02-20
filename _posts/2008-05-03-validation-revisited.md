@@ -1,14 +1,10 @@
----
-layout: post
-title: "Validation Revisited"
+---title: "Validation Revisited"
 date: 2008-05-03 16:10
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 This will be the first of a few posts that attempt to explain how I'm going about building my first prototype WPF application. Everything I've built thus far in WPF has really just been code fragments to try out a small subset of the WPF architecture. The goal of this is to create for myself a WPF application framework designed for building typical line of business (LO![](http://blog.spencen.com/emoticons/cool.png) applications.
  
 

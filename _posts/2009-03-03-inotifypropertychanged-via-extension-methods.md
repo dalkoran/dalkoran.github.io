@@ -1,14 +1,10 @@
----
-layout: post
-title: "INotifyPropertyChanged via Extension Methods"
+---title: "INotifyPropertyChanged via Extension Methods"
 date: 2009-03-03 15:06
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 I imagine most developers that work with data-binding in WinForms or WPF have their preferred way of implementing INotifyPropertyChanged (or individual &lt;property&gt;Changed events). Normally I use a base class to hide the interface declaration and event and then use helper methods in the setters to take care of raising the event when applicable.
   
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "WinForms Animation"
 date: 2007-10-24 12:42
 author: spencen

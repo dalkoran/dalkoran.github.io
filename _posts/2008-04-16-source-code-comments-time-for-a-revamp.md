@@ -1,14 +1,10 @@
----
-layout: post
-title: "Source Code Comments - Time for a revamp"
+---title: "Source Code Comments - Time for a revamp"
 date: 2008-04-16 15:00
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
-
-
 <font color="#0000ff">*[If you're impatient then check out the image [here](/images/Visual%20Studio%20Help%20Editor%201_4.png) to jump straight to the reason behind this post.]*</font>
  
 

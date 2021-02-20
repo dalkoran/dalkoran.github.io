@@ -1,14 +1,10 @@
----
-layout: post
-title: "Styling a ListBox"
+---title: "Styling a ListBox"
 date: 2008-02-17 12:09
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 I've found that the WPF ListBox control is one of my most commonly used controls when designing screens. Its ability to use DataTemplates to control how each item is rendered, ability to override the layout mechanism of the items via the ItemsPanelTempalte and even some pretty cool grouping capabilities.
  
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Validation Panel"
 date: 2007-10-11 15:14
 author: spencen

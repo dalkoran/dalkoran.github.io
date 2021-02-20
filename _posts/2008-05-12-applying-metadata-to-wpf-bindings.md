@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Applying MetaData to WPF Bindings"
 date: 2008-05-12 15:31
 author: spencen

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Binding an Enum Property to a ComboBox using customized text"
 date: 2009-04-18 15:35
 author: spencen

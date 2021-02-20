@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Circular Layout Panel v2"
 date: 2009-06-14 12:16
 author: spencen

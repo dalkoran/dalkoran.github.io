@@ -1,6 +1,4 @@
----
-layout: post
-title: "Sample App"
+---title: "Sample App"
 date: 2007-08-13 03:55
 author: spencen
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Lego Mindstorms NXT 2.0"
 date: 2010-01-14 13:39
 author: spencen

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Who needs a blog?"
 date: 2007-05-25 14:02
 author: spencen

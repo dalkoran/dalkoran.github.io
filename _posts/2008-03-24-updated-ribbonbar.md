@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Updated RibbonBar"
 date: 2008-03-24 15:51
 author: spencen

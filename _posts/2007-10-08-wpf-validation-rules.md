@@ -1,14 +1,10 @@
----
-layout: post
-title: "WPF Validation Rules"
+---title: "WPF Validation Rules"
 date: 2007-10-08 04:44
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 Wow - just reading the section on Advanced DataBinding in the WPF Unleashed book. This talks about how to do validation during data binding - specifically by creating custom classes that inherit from ValidationRule and return a ValidationResult. Apart from being very déjà-vu - because at work we have our own validation rules engine that uses exactly the same class names it also sounds a little odd. Having a ValidationRules collection hanging right off the Binding itself - is that really the best place to define the rules?
  
 

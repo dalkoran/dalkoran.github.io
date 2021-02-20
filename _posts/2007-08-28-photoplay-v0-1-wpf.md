@@ -1,14 +1,10 @@
----
-layout: post
-title: "PhotoPlay v0.1 - WPF"
+---title: "PhotoPlay v0.1 - WPF"
 date: 2007-08-28 04:04
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
-
 Err... well it sure don't do much yet but if you just can't get enough of spinning a photo around then [here](http://www.spencen.com/install/PhotoPLayWPF/publish.htm) is the ClickOnce install.
  
 

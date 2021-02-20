@@ -1,14 +1,10 @@
----
-layout: post
-title: "NHibernate – a Quality ORM?"
+---title: "NHibernate – a Quality ORM?"
 date: 2009-07-21 13:57
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
-
-
 *[This is a flame. If you are an NHibernate fan, please stop reading now, you’ll only upset yourself otherwise.]*
   
 

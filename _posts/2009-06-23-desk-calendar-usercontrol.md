@@ -1,6 +1,4 @@
----
-layout: post
-title: "Desk Calendar UserControl"
+---title: "Desk Calendar UserControl"
 date: 2009-06-23 14:35
 author: spencen
 comments: true

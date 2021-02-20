@@ -1,14 +1,10 @@
----
-layout: post
-title: "Developing for Windows Mobile – Composing User Controls"
+---title: "Developing for Windows Mobile – Composing User Controls"
 date: 2009-08-04 16:37
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
-
 Tonight I finished refactoring the mobile UI framework I’ve been putting together so that it can correctly handle composite elements. Previously I’d been able to handle a collection of polygons (Rectangles, Stars etc.). I’ve now introduced the concept of DrawingContainers that themselves have a collection of elements, any of which may be another DrawingContainer.
   
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Continuous Tile Panel"
 date: 2009-07-01 15:15
 author: spencen

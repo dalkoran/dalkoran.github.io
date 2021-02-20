@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "PhotoPlay - WPF - It Lives!"
 date: 2007-08-27 02:59
 author: spencen

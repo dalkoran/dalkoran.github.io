@@ -1,14 +1,10 @@
----
-layout: post
-title: "Restoring PCs using Windows Home Server"
+---title: "Restoring PCs using Windows Home Server"
 date: 2007-10-04 13:16
 author: spencen
 comments: true
 categories: [General, Windows Home Server]
 tags: []
 ---
-
-
 Over the last week I've had an unlucky streak with hardware on my home computers. Firstly my sons aging P3 tower had a hard disk failure. It wasn't catastrophic but it was preventing new data from being written to the drive. So I copied everything off onto the Home Server's shared folders.
  
 

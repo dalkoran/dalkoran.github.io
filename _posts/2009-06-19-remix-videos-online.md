@@ -1,6 +1,4 @@
----
-layout: post
-title: "Remix Videos Online"
+---title: "Remix Videos Online"
 date: 2009-06-19 04:20
 author: spencen
 comments: true

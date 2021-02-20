@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "ReadOnly Rows and Cells in a DataGrid"
 date: 2009-04-25 13:32
 author: spencen

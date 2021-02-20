@@ -1,14 +1,10 @@
----
-layout: post
-title: "WPF DataGrid Tips"
+---title: "WPF DataGrid Tips"
 date: 2009-04-12 14:40
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
-
 I’ve been struggling at work to use Microsoft’s WPF DataGrid (from their WPF Toolkit) to fulfil a fairly basic set of requirement. The following is simply a list of lessons learned.
   
 
