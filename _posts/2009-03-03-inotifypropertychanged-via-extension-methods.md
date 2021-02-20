@@ -1,10 +1,12 @@
----title: "INotifyPropertyChanged via Extension Methods"
+---
+title: "INotifyPropertyChanged via Extension Methods"
 date: 2009-03-03 15:06
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 I imagine most developers that work with data-binding in WinForms or WPF have their preferred way of implementing INotifyPropertyChanged (or individual &lt;property&gt;Changed events). Normally I use a base class to hide the interface declaration and event and then use helper methods in the setters to take care of raising the event when applicable.
   
 
@@ -142,6 +144,7 @@ Note that I use the boolean result from SetValue to determine whether I should f
 
 
 
-The RaiseEvent method in the Extension class is a really nasty hack (in other words it won’t always work and is slow). You can simply [pass through the event handlers](http://blog.jeffhandley.com/archive/2008/10/07/inotifypropertychanged---extension-methods.aspx) which makes things much simpler, but what I was aiming for was the least amount of code in the setters. I wouldn’t use this code in a production environment (a base class is much better suited). However it is well suited for adding property change notification to classes that I’m just throwing together for a demo or prototype without having to worry about PostSharp dependencies or base classes.
+The RaiseEvent method in the Extension class is a really nasty hack (in other words it won’t always work and is slow). You can simply [pass through the event handlers](http://blog.jeffhandley.com/archive/2008/10/07/inotifypropertychanged---
+extension-methods.aspx) which makes things much simpler, but what I was aiming for was the least amount of code in the setters. I wouldn’t use this code in a production environment (a base class is much better suited). However it is well suited for adding property change notification to classes that I’m just throwing together for a demo or prototype without having to worry about PostSharp dependencies or base classes.
 
 

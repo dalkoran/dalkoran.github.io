@@ -7,6 +7,7 @@ categories: [.NET, Development, General, WPF]
 tags: []
 ---
 
+
 <font color="#808080">**Warning** - This post just describes some fun I've been having learning about 2D graphics in WPF. There's certainly nothing very clever going on here, but its been pointed out to me by a prominent Australian blogger that its not the quality but the quantity of blog posts that's important :-p</font>
  
 

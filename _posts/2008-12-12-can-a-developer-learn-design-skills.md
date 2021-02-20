@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 Over the years I have the opportunity to build a fair number of user interfaces for various software applications. Whilst some have been more effective than others I’ve always struggled to create what I’d consider to be a truly compelling experience.
   
 

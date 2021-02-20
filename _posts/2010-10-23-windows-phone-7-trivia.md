@@ -1,10 +1,12 @@
----title: "Windows Phone 7 Trivia"
+---
+title: "Windows Phone 7 Trivia"
 date: 2010-10-23 03:24
 author: spencen
 comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
+
 OK – so yesterday I had a bit of a rant. Today I figure I’ll make up for it by sharing a few quick pieces of Windows Phone 7 trivia that I’ve learned over the last couple of days.
   
 

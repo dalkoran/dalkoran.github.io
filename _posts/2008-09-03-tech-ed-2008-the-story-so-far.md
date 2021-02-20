@@ -1,10 +1,12 @@
----title: "Tech Ed 2008 - The story so far"
+---
+title: "Tech Ed 2008 - The story so far"
 date: 2008-09-03 12:40
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 Due to some late schedule changes I was fortunate enough to be the [DHH](http://www.microsoft.com/australia/heroes/view_demos.aspx) first state finalist to present their demo at Tech Ed during one of the breaks. I'd got so tired of doing the same demo over and over again that this morning I decided to change it some - by adding a little WPF magic at the end. This probably detracted from the main message of the demo - using Sync Services for ADO.NET with SQL 2008 Change Tracking - but I had fun. 
   
 

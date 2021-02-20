@@ -1,10 +1,12 @@
----title: "Validation Interfaces"
+---
+title: "Validation Interfaces"
 date: 2008-05-07 15:37
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 #### IValidationRuleProvider
 
  

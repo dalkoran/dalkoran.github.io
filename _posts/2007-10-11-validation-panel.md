@@ -6,6 +6,7 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <strike></strike> 
 
 The panel I've been working on to display rich validation messages is slowly coming along. I spent quite a bit of effort over the last two nights making it a well behaved "lookless" control.

@@ -7,6 +7,7 @@ categories: [.NET, Development]
 tags: []
 ---
 
+
 Ok - so tonight I finally had the courage to install Visual Studio 2008 Beta 2 on my relatively new and until now pristinely clean development machine. The install process was the standard tried and true Visual Studio install engine and completed slowly but without any problems (only one reboot required).
  
 

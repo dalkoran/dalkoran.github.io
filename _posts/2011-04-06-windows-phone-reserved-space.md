@@ -1,10 +1,12 @@
----title: "Windows Phone ‘Reserved Space’"
+---
+title: "Windows Phone ‘Reserved Space’"
 date: 2011-04-06 02:02
 author: spencen
 comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
+
 My Windows Phone is showing that almost half its paltry capacity of 8 GB is consumed by “reserved space and content from other computers”.
   
 

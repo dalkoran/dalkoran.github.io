@@ -1,10 +1,12 @@
----title: "Blast from the Past - TI-99/4A"
+---
+title: "Blast from the Past - TI-99/4A"
 date: 2008-01-19 11:16
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 A few weeks ago my parents were packing away their Christmas decorations in their loft and whilst they were up there they bought down a whole bunch of old paraphernalia that we'd stored up there when we were kids.
   
 

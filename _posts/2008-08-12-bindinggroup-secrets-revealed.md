@@ -1,10 +1,12 @@
----title: "BindingGroup Secrets Revealed"
+---
+title: "BindingGroup Secrets Revealed"
 date: 2008-08-12 13:57
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 When Visual Studio 2008 SP1 Beta was released it was [hinted](http://blog.spencen.com/2008/05/15/bindinggroup-in-net-35-sp1.aspx) that new data binding functionality would be available for WPF applications using a new BindingGroup class.
   
 

@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 This post describes how I'm applying MetaData defined in my model to WPF controls at runtime. The goal is to keep the XAML concise without cluttering it with property settings that obscure the form layout intent and ensuring it stays in sync with the model across all forms in the application. Refer to [Karl Schifflet's recent passionate post](http://karlshifflett.wordpress.com/2008/05/08/metadata-a-voice-crying-in-the-wilderness-hey-im-over-here/) about why MetaData is important.
  
 

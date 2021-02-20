@@ -1,10 +1,12 @@
----title: "HTC Touch Diamond2"
+---
+title: "HTC Touch Diamond2"
 date: 2009-06-24 04:30
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
+
 [kitchen appliances](http://www.miele.com.au/au/domestic/home.htm), [attending conferences](http://blog.spencen.com/2009/06/11/remix09-recap.aspx) etc.
   
 

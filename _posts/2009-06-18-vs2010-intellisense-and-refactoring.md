@@ -1,10 +1,12 @@
----title: "VS2010 Intellisense and refactoring"
+---
+title: "VS2010 Intellisense and refactoring"
 date: 2009-06-18 01:55
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
+
 I’ve been spending a little more time recently with Visual Studio 2010 Beta 1. In particular building a solution from the ground up (including TFS integration) and doing a fair bit of prototyping. Some of the new editor improvements in VS2010 are really pretty neat.
   
 

@@ -1,10 +1,12 @@
----title: "Presenting at Code Camp SA"
+---
+title: "Presenting at Code Camp SA"
 date: 2009-07-19 02:39
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 Links from my presentation at [Code Camp SA](http://www.codecampsa.com) this year.
   
 

@@ -1,10 +1,12 @@
----title: "WHS Remote Access"
+---
+title: "WHS Remote Access"
 date: 2007-10-17 14:31
 author: spencen
 comments: true
 categories: [General, Windows Home Server]
 tags: []
 ---
+
 One of the features of Windows Home Server (WHS) that I really like is the ability to use the server as a remote access "hub". It means I can remote desktop into any one of my home machines from anywhere on the planet. This is kinda cool and can be used to:
 
 

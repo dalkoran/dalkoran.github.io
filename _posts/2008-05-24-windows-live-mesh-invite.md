@@ -1,10 +1,12 @@
----title: "Windows Live Mesh Invite"
+---
+title: "Windows Live Mesh Invite"
 date: 2008-05-24 10:40
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 Woohoo - just got an invite to Window Live Mesh - am installing on a few machines now. 
  
 

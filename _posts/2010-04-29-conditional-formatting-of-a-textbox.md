@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 ![FormatAndPaste](/images/FormatAndPaste_3.png "FormatAndPaste") 
   
 

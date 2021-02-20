@@ -7,6 +7,7 @@ categories: [.NET, Development, General]
 tags: []
 ---
 
+
 Ok - so I'm reading through [WPF Unleashed](http://blog.spencen.com/2007/08/28/wpf-book.aspx) and I finish reading the chapter on the various deployment types which also covers the inbuilt page navigation framework. Now this is something that I'm very interested in having attempted the feat myself a few times. So I decide its time to stop reading, roll up the sleeves and give it a try.
  
 

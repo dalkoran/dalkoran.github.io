@@ -1,10 +1,12 @@
----title: "WPF Charting"
+---
+title: "WPF Charting"
 date: 2009-04-28 14:33
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 Yesterday, I received an e-mail from a developer who has been working on a set of WPF charting controls called <a href="http://wpf.amcharts.com" target="_blank">amCharts for WPF</a>. I was intrigued so I went over to the website to have a look around. Suffice to say I was easily impressed enough by the demos on the website to download myself a copy of the free (link ware) version.
   
 

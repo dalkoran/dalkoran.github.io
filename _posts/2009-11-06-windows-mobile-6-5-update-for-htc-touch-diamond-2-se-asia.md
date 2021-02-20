@@ -1,10 +1,12 @@
----title: "Windows Mobile 6.5 Update for HTC Touch Diamond 2 (SE Asia)"
+---
+title: "Windows Mobile 6.5 Update for HTC Touch Diamond 2 (SE Asia)"
 date: 2009-11-06 14:05
 author: spencen
 comments: true
 categories: [Windows Phone]
 tags: []
 ---
+
 Tonight I downloaded and installed the official [Windows Mobile 6.5 ROM (SE Asia)](http://www.htc.com/sea/SupportViewNews.aspx?dl_id=737&amp;news_id=319) on my [HTC Touch Diamond 2](http://blog.spencen.com/2009/06/24/htc-touch-diamond2.aspx). I’d previously used [Microsoft My Phone](http://myphone.microsoft.com) software to back up all my personal data (excluding SD card) to the cloud. The re-install process worked flawlessly putting ringtones, contacts, <strike>favourites</strike>, text message history etc. back just the way they were prior to flashing the ROM – very nice.
   
 

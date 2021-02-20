@@ -1,10 +1,12 @@
----title: "Source Code Comments - Time for a revamp"
+---
+title: "Source Code Comments - Time for a revamp"
 date: 2008-04-16 15:00
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
+
 <font color="#0000ff">*[If you're impatient then check out the image [here](/images/Visual%20Studio%20Help%20Editor%201_4.png) to jump straight to the reason behind this post.]*</font>
  
 
@@ -97,7 +99,8 @@ BitmapFrame bitmap = BitmapFrame.Create(<span style="color: #0000ff">new</span> 
 
 
 
-Well - back in those Visual Studio 2005 days I used to use a little tool called [CR_Documentor](http://www.paraesthesia.com/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx) which was written as a [DXCore](http://www.devexpress.com/Products/NET/IDETools/DXCore/) add-in. This provided a real-time preview window of what your source comments would look like once marked-up. This was really useful as there was nothing more annoying that doing a whole bunch of source comments only to find the next day (after the nightly documentation was produced) I had made some silly error with my markup causing corrupt, incomplete or missing documentation. Admittedly the build I was using used to struggle keeping up with some of the really large namespace documentation (e.g. 500+ lines), but it did a good job for the small stuff.
+Well - back in those Visual Studio 2005 days I used to use a little tool called [CR_Documentor](http://www.paraesthesia.com/archive/2004/11/15/cr_documentor---
+the-documentor-plug-in-for-dxcore.aspx) which was written as a [DXCore](http://www.devexpress.com/Products/NET/IDETools/DXCore/) add-in. This provided a real-time preview window of what your source comments would look like once marked-up. This was really useful as there was nothing more annoying that doing a whole bunch of source comments only to find the next day (after the nightly documentation was produced) I had made some silly error with my markup causing corrupt, incomplete or missing documentation. Admittedly the build I was using used to struggle keeping up with some of the really large namespace documentation (e.g. 500+ lines), but it did a good job for the small stuff.
 
 <p align="center">![](http://www.paraesthesia.com/images/pMachine/CR_Documentor_options_sm.gif) 
 
@@ -150,7 +153,8 @@ Hmm... what else?
 
 
 
-[CR_Documentor](http://www.paraesthesia.com/archive/2004/11/15/cr_documentor---the-documentor-plug-in-for-dxcore.aspx) - real-time preview window of source comments marked up
+[CR_Documentor](http://www.paraesthesia.com/archive/2004/11/15/cr_documentor---
+the-documentor-plug-in-for-dxcore.aspx) - real-time preview window of source comments marked up
 
 
 

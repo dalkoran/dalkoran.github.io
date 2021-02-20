@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 Tonight I was struggling with how to get a list of Bindings defined within a WPF form. Why do I want to do this? Well there are two reasons.
  
 

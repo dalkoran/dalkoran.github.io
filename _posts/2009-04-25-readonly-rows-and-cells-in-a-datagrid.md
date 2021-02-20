@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 A common requirement for a DataGrid control is to have cells, or entire rows and/or columns that are read-only, or in other words non-editable. My requirements for this are as follows:
   
 

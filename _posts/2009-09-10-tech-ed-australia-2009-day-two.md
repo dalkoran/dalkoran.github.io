@@ -1,10 +1,12 @@
----title: "Tech-Ed Australia 2009 – Day Two"
+---
+title: "Tech-Ed Australia 2009 – Day Two"
 date: 2009-09-10 15:19
 author: spencen
 comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
+
 First – here’s a few blog posts which cover some of the sessions I went to yesterday – but in much more detail. I’d recommend both blogs if you’re not already subscribed.
   
 

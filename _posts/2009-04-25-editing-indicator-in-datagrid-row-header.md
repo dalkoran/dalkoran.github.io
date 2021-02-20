@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 Editable grids will quite commonly show an indicator in the row header area to indicate that a row is currently being edited. This is trivial to achieve using Microsoft’s WPF DataGrid.
   
 

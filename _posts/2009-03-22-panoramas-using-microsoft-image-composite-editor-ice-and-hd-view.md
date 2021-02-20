@@ -1,10 +1,12 @@
----title: "Panoramas using Microsoft Image Composite Editor (ICE) and HD View"
+---
+title: "Panoramas using Microsoft Image Composite Editor (ICE) and HD View"
 date: 2009-03-22 12:43
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 After having had quite a bit of [this website](http://blogs.msdn.com/pix/pages/extras.aspx).
   
 

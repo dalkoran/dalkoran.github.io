@@ -6,6 +6,7 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <P>Here’s another quick WPF custom control derived from Panel. This one is a cross between a StackPanel and a WrapPanel. It supports two modes of layout – Inline and Block. </P>
 <P>Inline elements are wrapped left to right much as the same as a WrapPanel with the default Orientation = Horizontal.</P>
 <P>Block elements are stacked as per a StackPanel with the default Orientation = Vertical.</P>

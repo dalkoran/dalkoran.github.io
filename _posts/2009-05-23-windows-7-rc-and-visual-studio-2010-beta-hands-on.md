@@ -1,10 +1,12 @@
----title: "Windows 7 RC and Visual Studio 2010 Beta – Hands on"
+---
+title: "Windows 7 RC and Visual Studio 2010 Beta – Hands on"
 date: 2009-05-23 14:31
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 A while back I posted that I had [installed the Windows 7 64bit Beta](http://blog.spencen.com/2009/01/28/windows-7-beta-experience.aspx) on my main development machine as a dual boot with Vista and that all looked good. A couple of weeks after that post my machine inexplicably stopped booting into Vista despite my attempts to perform a repair. So I’ve been running Windows 7 now for quite a while.
   
 

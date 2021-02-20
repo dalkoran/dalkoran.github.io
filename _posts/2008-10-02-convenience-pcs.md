@@ -1,10 +1,12 @@
----title: "Convenience PCs"
+---
+title: "Convenience PCs"
 date: 2008-10-02 14:13
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 Today I took my son to the <a href="http://www.allneeds.com.au" target="_blank">computer store</a> to buy some parts for his new machine. We’d recently tried to upgrade his Pentium 3 to Windows Vista – but whilst the install worked the performance was terrible. The box only had 512Mb RAM and the aging 30Gb drive eventually failed after so much page swapping whilst attempting to install SP1.
   
 

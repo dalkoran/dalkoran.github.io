@@ -7,6 +7,7 @@ categories: [.NET, Development, Lab49, WPF]
 tags: []
 ---
 
+
 Someone posed a question on our internal mailing list today at work that reminded me of a problem I’d tackled previously whilst working as a *[developer of fortune](http://blog.spencen.com/2010/01/28/wrapping-up-a-contract.aspx)*.
   
 

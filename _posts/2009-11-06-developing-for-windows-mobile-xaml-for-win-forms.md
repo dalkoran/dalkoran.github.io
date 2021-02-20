@@ -7,6 +7,7 @@ categories: [.NET, Development, Windows Phone]
 tags: []
 ---
 
+
 Many years ago (2004/5?) I was given the task of writing a XAML engine for System.Windows.Forms. It was a great experience and to do the job properly (I hope) it took quite some time. It had support for most of what’s available in WPF’s XAML – namespaces, markup extensions, attached properites (IExtenderProviders in WinForms speak), type converters, late bound binding, styles, triggers etc. plus a bunch of stuff that isn’t - #include, using parameterized constructors, simplified referencing etc.
   
 

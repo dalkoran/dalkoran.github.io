@@ -1,10 +1,12 @@
----title: "Working from Home"
+---
+title: "Working from Home"
 date: 2009-06-26 03:30
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 For the last week and a half I’ve been lucky enough to take some leave and work on some of my own (unpaid) projects. Here’s a few simple observations from that experience…
   
 

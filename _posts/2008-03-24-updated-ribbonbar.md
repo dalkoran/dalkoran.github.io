@@ -7,6 +7,7 @@ categories: [.NET, Development, WPF]
 tags: []
 ---
 
+
 Update to RibbonBar - is now a separate Resource file. Simply merge into the resource dictionary and use the RibbonBarStyle on the TabControl you want to look like a Ribbon. The sample below can be copied direct into XAML viewer (e.g. Kaxaml). This is a XAML only version so doesn't contain any of the command binding stuff, curvy tab headers etc.
  <div>
 

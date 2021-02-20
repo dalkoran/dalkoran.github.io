@@ -1,10 +1,12 @@
----title: "Screen Resolution"
+---
+title: "Screen Resolution"
 date: 2009-07-01 14:14
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 There has been plenty of talk over the last handful of years about how we should be writing applications that are device resolution independent. For example, designing screen elements in terms of real world measurements like millimetres (or for the metrically challenged – inches). There is no point designing a button that is designed to be touched by a large thumb at a resolution of 100 pixels by 40 pixels when its deployed to a 300 ppi ([pixels per inch](http://en.wikipedia.org/wiki/Pixels_per_inch)) device.
   
 

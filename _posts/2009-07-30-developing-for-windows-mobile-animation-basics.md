@@ -1,10 +1,12 @@
----title: "Developing for Windows Mobile – Animation Basics"
+---
+title: "Developing for Windows Mobile – Animation Basics"
 date: 2009-07-30 15:57
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
+
 This post is a follow on from my <a href="http://blog.spencen.com/2009/07/29/developing-for-windows-mobile-ndash-getting-started.aspx" target="_blank">most recent efforts</a> creating some screens for a Windows Mobile application. I had decided to write a simple graphics library to help me do some nice transition effects. So over the last two nights I ported (actually rewrote) my original WinForms Transition demo to Windows Compact Framework.
   
 

@@ -1,10 +1,12 @@
----title: "Wireless Internet"
+---
+title: "Wireless Internet"
 date: 2008-08-29 12:54
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 After much “mulling-over” I finally decided to get a Wireless Internet account. I looked into each of the obvious Vendors – [3](www.three.com.au), [Optus](www.optus.com.au) and [Vodafone](www.vodafone.com.au). Of those only Optus had a pre-paid service – the other two offered only 24 month plans that required a credit check and lots of stupid questions. On closer inspection though Optus’s 2Gb for $30 pre-paid plan began to look less inviting. In addition the pre-paid blocks expire after 30 days and the fine print states that usage is measured in 10Mb increments. So connecting and downloading a 1Kb file will accrue 10Mb of usage! On a 2Gb plan that’s only 200 individual connections?!
   
 

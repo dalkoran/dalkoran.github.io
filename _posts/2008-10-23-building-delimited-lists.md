@@ -7,6 +7,7 @@ categories: [.NET, Development]
 tags: []
 ---
 
+
 As developers we often find ourselves writing the same simple bits of logic over and over again. Today at work I noticed one of my co-workers (let’s call him [Benjy](http://www.citv.co.uk/static/engie/index.html)) writing a very simple routine to format some output for diagnostics. It went something like this:
   
 

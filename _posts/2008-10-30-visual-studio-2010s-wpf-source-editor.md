@@ -1,10 +1,12 @@
----title: "Visual Studio 2010’s WPF Source Editor"
+---
+title: "Visual Studio 2010’s WPF Source Editor"
 date: 2008-10-30 13:04
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 The last couple of days I’ve been enjoying reading/listening to the announcements coming out of PDC – as I’m sure has most of the Microsoft Developer community.
   
 

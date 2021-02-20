@@ -1,10 +1,12 @@
----title: "BindingGroup in .NET 3.5 SP1?"
+---
+title: "BindingGroup in .NET 3.5 SP1?"
 date: 2008-05-15 12:14
 author: spencen
 comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <P>Of all the new features trumpeted for .NET 3.5 SP1 recently the one bullet point that really caught my attention was this little gem (from <A href="http://blogs.msdn.com/brada/">Brad Adams blog</A>).</P>
 <BLOCKQUOTE>
 <P>A new BindingGroup in System.Windows.Data (additional databinding support)</P></BLOCKQUOTE>

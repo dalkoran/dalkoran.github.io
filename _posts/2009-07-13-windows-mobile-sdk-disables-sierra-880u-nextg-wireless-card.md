@@ -1,10 +1,12 @@
----title: "Windows Mobile SDK disables Sierra 880U NextG Wireless Card"
+---
+title: "Windows Mobile SDK disables Sierra 880U NextG Wireless Card"
 date: 2009-07-13 13:45
 author: spencen
 comments: true
 categories: [.NET, Development]
 tags: []
 ---
+
 On my 50 minute bus trip home I often get out my laptop – whether its to finishing checking-in my days work via VPN, getting a headstart with projects that I’m working on at home, of even just catching up with blogs/mail etc.
   
 

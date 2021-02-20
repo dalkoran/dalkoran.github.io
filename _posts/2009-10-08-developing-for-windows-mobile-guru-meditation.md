@@ -6,6 +6,7 @@ comments: true
 categories: [.NET, Development, General, Windows Phone]
 tags: []
 ---
+
 <P>I’ve been working away for a few nights now trying to put together a simple framework for building user interfaces on a Windows Mobile device. It’s only taken a few nights to build something that I’m pretty happy with… and I was thinking of maybe even posting some source code.</P>
 <P>It was at this moment of course that I had a visit from my Inner Guru. You know the one… that little voice in your head that sniggers impolitely whenever you struggle to convert a loop into a LINQ expression. Or when you’re hacking out some prototype code and you need to new up an instance. You know that really its going to need an IOC container, you look around, no-ones watching… in goes the explicit “new Foo()”. Immediately your Inner Guru can be heard muttering to themselves, “tut… tut.. will he <EM>never</EM> learn…”.</P>
 <P>Anyhow, my Inner Guru popped in for a visit just the other day and we had a quick chat about the work I’d been doing on my mobile framework. The conversation went something like this:</P>

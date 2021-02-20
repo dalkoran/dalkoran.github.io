@@ -1,10 +1,12 @@
----title: "Fun with Microsoft Tag"
+---
+title: "Fun with Microsoft Tag"
 date: 2009-09-25 01:05
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 Not convinced on the business case for these tags yet – but they are fun to play with. Here’s one I created…
   
 

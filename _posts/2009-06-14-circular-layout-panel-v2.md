@@ -6,6 +6,7 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <P>On the flight to <A href="http://blog.spencen.com/2009/06/11/remix09-recap.aspx">Remix09 last week</A> I had fun putting together a simple WPF <A href="http://blog.spencen.com/2009/06/11/circular-layout-panel.aspx">Circular Layout Panel</A>. Today I decided that a nice “extra” feature would be to have the child elements optionally rotated so that they are normalised with the centre of the layout panel.</P>
 <P>So after adding a new attached dependency property, IsNormalised I updated my sample clock and fan menu. The following XAML…</P><PRE class=code><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">&lt;</SPAN><SPAN style="COLOR: #a31515">Window </SPAN><SPAN style="COLOR: red">x</SPAN><SPAN style="COLOR: blue">:</SPAN><SPAN style="COLOR: red">Class</SPAN></FONT></FONT><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">="PanelTest.Window1"
 </SPAN><SPAN style="COLOR: red">xmlns</SPAN></FONT></FONT><FONT size=1><FONT face=Verdana><SPAN style="COLOR: blue">="http://schemas.microsoft.com/winfx/2006/xaml/presentation"

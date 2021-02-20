@@ -1,10 +1,12 @@
----title: "Free Windows Phone!"
+---
+title: "Free Windows Phone!"
 date: 2010-10-02 02:03
 author: spencen
 comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
+
 There has to be some benefits to living in the US right? Some incentive. I mean the economy is crumbling, [tornados](http://www.youtube.com/watch?v=TzV9K90-fx4) and [tropical storms](http://online.wsj.com/article/SB10001424052748704029304575526293977082862.html) seem to be a weekly occurrence – where is the “up” side?
   
 

@@ -1,10 +1,12 @@
----title: "Silverlight Firestarter 2010"
+---
+title: "Silverlight Firestarter 2010"
 date: 2010-12-06 05:05
 author: spencen
 comments: true
 categories: [.NET, Development, Lab49]
 tags: []
 ---
+
 [communication at the recent PDC](http://team.silverlight.net/announcement/pdc-and-silverlight/) that was then somehow twisted and blown well out of proportion by the blogosphere, Microsoft recently held a Silverlight Firestarter event on campus in Redmond (and streamed live). The “main event” was the keynote which was primarily dedicated to talking about the future of Silverlight, and specifically show casing Silverlight 5.
   
 

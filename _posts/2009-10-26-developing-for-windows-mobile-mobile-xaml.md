@@ -1,10 +1,12 @@
----title: "Developing for Windows Mobile – Mobile XAML?"
+---
+title: "Developing for Windows Mobile – Mobile XAML?"
 date: 2009-10-26 15:39
 author: spencen
 comments: true
 categories: [.NET, Development, Windows Phone]
 tags: []
 ---
+
 I’ve now included a “first cut” XAML parser (ultra simplistic) within v0.2 of my [Mobile UI Framework](http://mobileui.codeplex.com/).
   
 

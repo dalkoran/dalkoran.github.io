@@ -1,10 +1,12 @@
----title: "The Bag Arrives"
+---
+title: "The Bag Arrives"
 date: 2007-11-29 11:25
 author: spencen
 comments: true
 categories: [General]
 tags: []
 ---
+
 Today the <a href="http://www.tombihn.com/page/001/PROD/300/TB0104" target="_blank">Tom Bihn Brain Bag</a> was delivered. The courier delivered it to my home whilst the wife was out and so they decided to throw the box over the garden gate. Amusingly the online UPS tracking certificate had "Signed by: DR SIDE GATE".
  
 
