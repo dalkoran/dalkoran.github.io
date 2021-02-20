@@ -1,5 +1,4 @@
 ---
-
 title: "Developing for Windows Mobile – Guru Meditation"
 date: 2009-10-08 14:51
 author: spencen

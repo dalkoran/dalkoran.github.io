@@ -1,5 +1,4 @@
 ---
-
 title: "Conditional Formatting of a TextBox"
 date: 2010-04-29 04:52
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 ![FormatAndPaste](/images/FormatAndPaste_3.png "FormatAndPaste") 
   

@@ -1,5 +1,4 @@
 ---
-
 title: "Thumbnail Solutions"
 date: 2008-01-10 12:34
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 So based on [last nights performance troubles loading thumbnail images](http://blog.spencen.com/2008/01/10/thumbnail-images.aspx) I spent a couple of minutes "googling" and discovered the following useful links:
  

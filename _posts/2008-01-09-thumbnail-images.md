@@ -1,5 +1,4 @@
 ---
-
 title: "Thumbnail Images"
 date: 2008-01-09 15:42
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 When I wrote my little [PhotoPlay](http://blog.spencen.com/2007/08/15/photoplay-v01--winforms.aspx) applet I quickly realised that loading large numbers of images into memory was slow and enormously expensive in terms of memory use. I remember the first time I pointed PhotoPlay at my year 2004 photo folder - I think I managed to kill the task at around 3Gb of virtual memory use.
  

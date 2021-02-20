@@ -1,5 +1,4 @@
 ---
-
 title: "XAML Ribbon Bar - Part 2"
 date: 2008-03-08 15:20
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 When designing the XAML Ribbon Bar I really got stuck figuring out how to get the curved effect on the Tab Item. At one stage I used a Path instead of the Border in the markup, so instead of:
 

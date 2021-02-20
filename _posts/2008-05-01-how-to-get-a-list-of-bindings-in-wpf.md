@@ -1,5 +1,4 @@
 ---
-
 title: "How to get a list of Bindings in WPF?"
 date: 2008-05-01 15:46
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 Tonight I was struggling with how to get a list of Bindings defined within a WPF form. Why do I want to do this? Well there are two reasons.
  

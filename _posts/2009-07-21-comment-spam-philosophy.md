@@ -1,5 +1,4 @@
 ---
-
 title: "Comment Spam Philosophy"
 date: 2009-07-21 14:28
 author: spencen

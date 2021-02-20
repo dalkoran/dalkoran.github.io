@@ -1,5 +1,4 @@
 ---
-
 title: "Why DataTemplates Rock!"
 date: 2008-08-02 15:45
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 In the recent Screencasts I did on creating an Occasionally Connected app my user interface consisted of a ListBox and a few buttons. The ListBox was used to display the list of *Holidays* read from a locally cached database. The application has now evolved where that early prototype has become the initial &#8220;selection screen&#8221; for the HolidayPlanner application.
   

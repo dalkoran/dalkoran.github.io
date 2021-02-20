@@ -1,5 +1,4 @@
 ---
-
 title: "Asynchronous Validation"
 date: 2008-05-08 14:59
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 Occasionally I've wanted to execute Validation Rules that take a significant duration to execute (anything more than half a second for example). Normally these involve some cross-tier communication, e.g. database access, web service call etc.&nbsp; Examples of these types of validation include:
  

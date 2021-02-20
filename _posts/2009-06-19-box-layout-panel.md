@@ -1,5 +1,4 @@
 ---
-
 title: "Box Layout Panel"
 date: 2009-06-19 00:58
 author: spencen

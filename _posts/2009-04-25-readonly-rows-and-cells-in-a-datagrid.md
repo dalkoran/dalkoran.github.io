@@ -1,5 +1,4 @@
 ---
-
 title: "ReadOnly Rows and Cells in a DataGrid"
 date: 2009-04-25 13:32
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 A common requirement for a DataGrid control is to have cells, or entire rows and/or columns that are read-only, or in other words non-editable. My requirements for this are as follows:
   

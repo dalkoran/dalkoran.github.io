@@ -1,5 +1,4 @@
 ---
-
 title: "Binding an Enum Property to a ComboBox using customized text"
 date: 2009-04-18 15:35
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 ### The problem
 
