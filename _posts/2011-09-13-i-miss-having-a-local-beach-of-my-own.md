@@ -12,7 +12,7 @@ tags: []
 When I lived in Australia this used to be one of my local beaches…
   
 
-<a href="/images/DSC09252%20Stitch%20Wide.jpg">![DSC09252 Stitch Wide](/images/DSC09252%20Stitch%20Wide.jpg "DSC09252 Stitch Wide"){: width=400}</a>
+<a href="/images/DSC09252%20Stitch%20Wide.jpg" width="400">![DSC09252 Stitch Wide](/images/DSC09252%20Stitch%20Wide.jpg "DSC09252 Stitch Wide"){: width=400}</a>
   
 
 This was another…
