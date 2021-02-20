@@ -1,5 +1,5 @@
 name: Nigel Spencer's Homepage
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+encoding: utf-8
 theme: jekyll-theme-architect
