@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asynchronous Validation"
 date: 2008-05-08 14:59
 author: spencen

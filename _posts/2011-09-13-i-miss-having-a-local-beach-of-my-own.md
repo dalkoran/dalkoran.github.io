@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "I miss having a local beach of my own"
 date: 2011-09-13 01:13
 author: 
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 When I lived in Australia this used to be one of my local beaches…
   

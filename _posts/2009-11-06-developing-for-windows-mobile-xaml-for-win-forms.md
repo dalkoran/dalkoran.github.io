@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Developing for Windows Mobile – XAML for Win Forms"
 date: 2009-11-06 14:51
 author: spencen

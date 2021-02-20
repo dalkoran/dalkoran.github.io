@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "&quot;Star&quot;tlingly Bad Code"
 date: 2008-06-03 14:19
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, General, WPF]
 tags: []
 ---
-
 
 Scott Hanselman's got my attention this morning with his recent endeavour to launch a community driven reference application for WPF. If you haven't already read about BabySmash! go read about it [here](http://www.hanselman.com/blog/IntroducingBabySmashAWPFExperiment.aspx) and check it out on codeplex [here](http://www.codeplex.com/babysmash).
  

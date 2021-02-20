@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Desk Genie"
 date: 2010-04-19 03:19
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
-
 
 I’ve recently had the opportunity to reduce my material possessions to no more than can be carried in eight suitcases. This was quite a liberating experience. Particularly when you take into account that those eight suitcases were for my entire family – only two contained my stuff.
   

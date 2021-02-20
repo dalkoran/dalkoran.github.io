@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Word Puzzle to Silverlight Phone – Part 2"
 date: 2010-04-26 04:37
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, Windows Phone]
 tags: []
 ---
-
 
 Finally got interaction and feedback happening on the [Silverlight port of Word Puzzle](http://blog.spencen.com/2010/04/08/porting-wpf-word-puzzle-to-windows-phone-silverlight-ndash-part-1.aspx). This was so much more difficult than I had imagined – feels like learning WPF from scratch. I am beginning to believe that it would be easier to approach Silverlight with no WPF knowledge whatsoever.
   

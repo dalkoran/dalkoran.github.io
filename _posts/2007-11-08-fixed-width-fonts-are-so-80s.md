@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixed Width Fonts are so 80's"
 date: 2007-11-08 15:21
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 Seriously - why is it that when I walk around the office I see all the developers staring at Visual Studio code windows displayed using "Courier New" font. Trust me - the "new" in "Courier New" ain't that new!
  

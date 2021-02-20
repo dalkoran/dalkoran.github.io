@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charles Petzold at the NYC .NET Developers Group"
 date: 2010-10-22 02:52
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, Windows Phone]
 tags: []
 ---
-
 
 Tonight I went along to the New York City .NET User Group to watch Charles Petzold presenting on Windows Phone 7. It was fun to see Petzold in person and though its obvious he’s more an author than a public speaker he still did a great job. He was very well prepared for the talk and did his best to accommodate the somewhat rowdy crowd. The talk was an introduction to the Windows Phone 7 development experience with a focus on the application lifecycle – specifically tombstoning. This seemed to be at the right level for the crowed as far as I could tell – it seemed the majority of people there knew very little about the new platform.
   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thoughts on Mesh Remote Desktop"
 date: 2008-05-28 12:08
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 One of the features of [Microsoft's Mesh](http://www.mesh.com) is to provide a remote desktop connection to any of your devices via the Live Desktop. That amounts to being able to remote desktop from any of the supported browsers. Microsoft's [Windows Home Server](https://www.microsoft.com/windows/products/winfamily/windowshomeserver/default.mspx) [already provides me with this experience](http://blog.spencen.com/2007/10/17/whs-remote-access.aspx) and whilst I can't say I've used it a lot - it has helped me out a few times in a big way. 
  

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Continuous Tile Panel"
 date: 2009-07-01 15:15
 author: spencen
@@ -7,6 +6,7 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <p dir="ltr">A couple of weeks ago someone suggested to me an idea for a particular type of layout panel. The idea was to be able to display a fixed set of tiles which are “wrapped” horizontally. So as you scroll horizontally the tiles will move off one edge of the panel and eventually re-appear on the other side. Think of how we commonly see the earth projected onto a rectangle – scrolling left or right to bring the particular geography into the centre of the screen. 
  <p style="margin-right: 0px" dir="ltr">I jumped into this without giving too much thought about how I would want to interact with the panel from an API perspective. For that reason its probably I’ve taken altogether the wrong approach but I thought I would post it up here anyway, ‘cause its unlikely I’ll take it any further than this proof of concept.
  

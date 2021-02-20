@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How to get a list of Bindings in WPF?"
 date: 2008-05-01 15:46
 author: spencen

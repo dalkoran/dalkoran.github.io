@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Little to Report"
 date: 2007-09-05 07:57
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 I haven't made any progress for the last week on my WPF attempt at PhotoPlay for a bunch of reasons relating to work and home commitments. I'm pretty disappointed about this - I had hoped to have got further. The good news is that I received an e-mail on Monday from [www.fishpond.com.au](http://www.fishpond.com.au) indicating that <a href="http://blog.spencen.com/2007/08/28/wpf-book.aspx" target="_blank">my book</a> has been shipped and I should expect it by the end of the week.
  

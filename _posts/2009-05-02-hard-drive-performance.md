@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hard Drive Performance"
 date: 2009-05-02 14:37
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General, Windows Home Server]
 tags: []
 ---
-
 
 Today I spent an hour or so reconfiguring the hard disks in a few of my home machines. The idea was to boost the Windows Home Server machine&#160; to 2Tb and also replace the aging 120Gb ATA drive in my main dev box (the oldest of four drives in that box and my last remaining ATA drive in service).
   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "PhotoPlay Online Help"
 date: 2007-08-24 21:40
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 **Menus**
  

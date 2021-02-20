@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Problems binding to SelectedValue with Microsoft’s WPF DataGrid"
 date: 2009-04-30 13:17
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 I had been seeing some odd exceptions being thrown by the WPF DataGrid code when interacting with the “new row” place holder. 
   

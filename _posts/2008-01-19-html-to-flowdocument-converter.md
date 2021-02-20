@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "HTML to FlowDocument Converter"
 date: 2008-01-19 13:52
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 I have an existing application that I wrote that stores "notes" in HTML format. I actually used the embedded HTML editor in IE to allow the user to create text - similar to what a RichText control would be used for but outputting to HTML rather than (the even more horrid) RTF.
  

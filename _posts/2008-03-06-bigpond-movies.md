@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bigpond Movies"
 date: 2008-03-06 15:26
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 I'm a big fan of Windows Media Center. At home we only have one television that actually gets used - and everything we watch comes through the attached Media Center PC. Whether that be live TV, recorded TV, home video or downloaded video. ![Building the Home Theatre PC](/images/DSC04682.jpg)
  

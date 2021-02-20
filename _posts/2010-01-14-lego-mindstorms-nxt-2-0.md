@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lego Mindstorms NXT 2.0"
 date: 2010-01-14 13:39
 author: spencen
@@ -7,6 +6,7 @@ comments: true
 categories: [Development, General]
 tags: []
 ---
+
 <P>Unlike <A href="http://blogs.msdn.com/acoat/archive/2010/01/13/lego-mindstorms-nxt2-0-trophybot.aspx">Andrew Coates</A> I have a legitimate reason for buying a <A href="http://mindstorms.lego.com/eng/default.aspx">Lego Mindstorms NXT 2.0</A> Robotics kit. I have a young son who’s very keen on Lego and has been building his own robots out of cardboard and Sellotape for the last three months.</P>
 <P>I must admit that I had expected to be building and programming the first few robots myself whilst my son got the hang of it all. However, that was not the case. </P>
 <P>Here’s the robot that is currently built with our kit.</P>

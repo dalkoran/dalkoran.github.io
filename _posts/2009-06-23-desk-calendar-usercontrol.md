@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Desk Calendar UserControl"
 date: 2009-06-23 14:35
 author: spencen
@@ -7,6 +6,7 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
+
 <P>I had a lot of fun late this afternoon putting together a Desk Calendar UserControl. The idea was triggered by me using a screenshot of the Vista Calendar Gadget in my <A href="http://blog.spencen.com/2009/06/23/codecampsa-2009.aspx">last post</A>. Also I’m working on a project at the moment that could use a nice date/calendar display and my previous WinForms attempts never looked that great.</P>
 <P align=left>Believing that imitation is the greatest form of flattery – here is my new Desk Calendar UserControl in all its glory. Of course being WPF its fully zoomable – no nasty bitmaps here – click the image to see it at higher res.</P>
 <P><A href="/images/DeskCalendar.png"><IMG style="BORDER-RIGHT-WIDTH: 0px; DISPLAY: block; FLOAT: none; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: auto; BORDER-LEFT-WIDTH: 0px; MARGIN-RIGHT: auto" title=DeskCalendar border=0 alt=DeskCalendar src="/images/DeskCalendar.png" width=128 height=240></A> </P>

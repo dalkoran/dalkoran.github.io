@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Great Content Abounds"
 date: 2008-04-08 15:44
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 Haven't posted for a while - I've been absorbing the flurry of good content that been blogged recently. Some of my favourites.
  

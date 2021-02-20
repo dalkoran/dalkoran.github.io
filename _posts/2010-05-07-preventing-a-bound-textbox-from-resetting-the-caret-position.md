@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Preventing a bound TextBox from resetting the caret position"
 date: 2010-05-07 11:54
 author: spencen

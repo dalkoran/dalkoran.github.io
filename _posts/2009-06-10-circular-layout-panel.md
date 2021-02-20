@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Circular Layout Panel"
 date: 2009-06-10 14:40
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 I’ve been given an opportunity to write a custom WPF layout panel. This is something that I’ve been wanting to try for ages but have never really had the need. Rather than jumping straight in to some potentially complex layout algorithms, I figured that I’d start with something trivial just to get the hang of things. Hence the CircularPanel was born.
   

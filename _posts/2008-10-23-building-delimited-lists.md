@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Building delimited lists"
 date: 2008-10-23 12:50
 author: spencen

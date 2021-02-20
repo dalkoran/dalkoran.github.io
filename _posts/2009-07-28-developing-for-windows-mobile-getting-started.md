@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Developing for Windows Mobile – Getting Started"
 date: 2009-07-28 14:38
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 Now I have my new Windows Mobile 6.1 device I’ve decided to delve once more into the mysterious realm of developing for mobile devices. My previous forays have both been very lightweight. The most recent was simply displaying bus timetable information within a ListView control. Despite its simplicity its actually something I find very useful on my daily commute – rather than digging around in my bag for the paper version and then tuning in to the times and stops that I’m interested in.
   

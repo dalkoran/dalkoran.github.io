@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Smugmug API"
 date: 2011-03-21 01:19
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 [Smugmug](http://www.smugmug.com). I can upload and view images at their original size, they offer effectively unlimited storage, support video streaming, protected sharing facilities and the website doesn’t suck. It comes with a price tag but I’m fine with that.
  

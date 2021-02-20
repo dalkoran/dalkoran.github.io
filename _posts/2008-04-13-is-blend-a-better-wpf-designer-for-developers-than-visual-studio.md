@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Is Blend a better WPF designer for developers than Visual Studio?"
 date: 2008-04-13 13:43
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 For ages now I've had some XAML that consistently generates error messages in the Visual Studio designer. I've found this most frustrating because I was never sure quite what was wrong with the XAML. Compiling and running the application and it worked exactly how it was intended. But the designer simply refused to display it - instead giving this standard message.
  

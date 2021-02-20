@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Random thoughts for this week"
 date: 2010-05-10 04:59
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 [printing panoramic photos](https://www.fotoflot.com) that links in nicely with my [SmugMug](http://www.smugmug.com/) account.
   

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "WinForms Animation (part 2)"
 date: 2007-12-10 15:04
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 A small update to [here](http://www.spencen.net/source/WinFormsTransitions2.zip). A ClickOnce online only example is <a href="http://www.spencen.net/install/WinFormsTransitions2/publish.htm" target="_blank">here</a>.
  

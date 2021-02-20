@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Windows Home Server RTM"
 date: 2007-09-23 13:06
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General, Windows Home Server]
 tags: []
 ---
-
 
 Just setup my Windows Home Server machine to the RTM version (from RC). Performed a manual backup using a single drive (320Gb) which does an amazing job of backing up my main workstation and the home theatre PC [this isn't a full backup given the workstation alone has over a terabyte of disk - but its most of the important stuff]. However, I then included the second drive into the storage "array" and the backups started failing again. This was the same problem I had with the RC - basically the server machine just reboots halfway through a backup. It seems like a hardware issue given how sudden the reboot is (there is nothing untoward reported in any of the event logs) - but as to which device is failing...
  

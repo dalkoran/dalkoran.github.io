@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Handling Images with the HtmlToXamlConverter"
 date: 2008-04-22 16:05
 author: spencen

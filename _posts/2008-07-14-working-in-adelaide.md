@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Working in Adelaide"
 date: 2008-07-14 11:55
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [Development, General]
 tags: []
 ---
-
 
 I have a day job as a professional software developer. I recently took the opportunity to assess my current employer and here’s how they did:
   

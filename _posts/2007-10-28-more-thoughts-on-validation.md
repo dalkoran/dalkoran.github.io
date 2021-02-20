@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "More Thoughts on Validation"
 date: 2007-10-28 14:07
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [Development]
 tags: []
 ---
-
 
 I've been thinking a little more about what I want out of a Validation Engine - here are some more random thoughts...
  

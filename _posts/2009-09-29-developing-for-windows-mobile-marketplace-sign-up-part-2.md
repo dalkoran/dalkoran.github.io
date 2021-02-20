@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Developing for Windows Mobile – Marketplace Sign-up (Part 2)"
 date: 2009-09-29 14:03
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
-
 
 Contacted GeoTrust again and got an immediate verification over the phone. Was told that the Microsoft website would update the verified status within a few minutes. Several hours later… still waiting…
   

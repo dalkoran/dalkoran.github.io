@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sync Services Screencast - Part 2"
 date: 2008-07-15 15:59
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
-
 
 I’ve just uploaded Part 2 of my screencast on Occasionally Connected Application using Sync Services for ADO.NET. 
 

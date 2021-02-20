@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sneak Peak"
 date: 2008-02-20 14:55
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 My little hobby app that I've been tinkering with now for over a year is finally beginning to take shape. The user interface is still a shambles - mainly because its my test bed for all the new WPF goodies I've been learning, but the database and data access layer are pretty much sorted out (thanks to LINQ). I've started importing a little data and was kinda happy with some of the initial results... so much so I just had to post a screenshot. 
  

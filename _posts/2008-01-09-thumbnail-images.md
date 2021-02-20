@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thumbnail Images"
 date: 2008-01-09 15:42
 author: spencen

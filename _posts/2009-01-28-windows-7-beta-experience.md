@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Windows 7 Beta Experience"
 date: 2009-01-28 13:18
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 Like a few million others I’ve put the Windows 7 Beta through its paces recently. Keen to get it up and running with as little fuss as possible I initially installed it on a VM using Microsoft Virtual PC 2007. It installed flawlessly but the experience was terrible. No Aero-glass of course, but disk access was slow, screen redraws were torturous – everything seemed so “laggy”. Much more so than a Windows Vista or XP virtual machine.
   

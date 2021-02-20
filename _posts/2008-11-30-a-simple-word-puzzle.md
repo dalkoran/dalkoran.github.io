@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Simple Word Puzzle"
 date: 2008-11-30 12:37
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 A few weeks back my young son showed me some work that he’d been doing at school – constructing a simple word puzzle by hiding a few known words within a grid of letters. His approach to this was very simplistic – but got me thinking that writing an application to do the same would be trivial and thus something that could keep me busy on the bus trips to and from work.
   

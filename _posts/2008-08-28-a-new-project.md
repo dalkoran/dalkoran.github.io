@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A New Project"
 date: 2008-08-28 14:26
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
-
 
 About five weeks ago I changed jobs – well I guess more accurately I took on another job but that’s a long story.
   

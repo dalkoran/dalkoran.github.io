@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A New Project (part 2)"
 date: 2008-08-30 15:05
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, General]
 tags: []
 ---
-
 
 [David](http://davidgardiner.blogspot.com/) left a comment to my [previous post](http://blog.spencen.com/2008/08/28/a-new-project.aspx) rightly pointing out that I’d omitted MbUnit from the list of tools. Considering that omission I also realised that I’d missed a few other tools. For completeness sake I’ve decided to include them in this follow-up post.
   

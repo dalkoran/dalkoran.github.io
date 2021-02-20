@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "WinForms Animation"
 date: 2007-10-24 12:42
 author: spencen
@@ -7,6 +6,7 @@ comments: true
 categories: [.NET, Development]
 tags: []
 ---
+
 <P>[<EM>This post stemmed from a conversation I had today where I was trying to preach the wonders of WPF - particularly in terms of being able to declare simple yet effective animations for UI elements. Contrasting it to what we used to have to do "when I was a lad"...</EM>]</P>
 <P>A couple of months back when I was working on the WinForms version on my PhotoPlay applet I was trying to do some simple animation using WinForms (GDI+). The effect I was trying to generate was a "fade away". When a selected photo was removed (via Delete key) it was to fade to transparent and also shrink to nothingness around its centre.</P>
 <P>I wanted to use a Timer to make sure that the effect always took a set amount of time, e.g. 500ms. I always use this approach because it makes sure your animations behave nicely no matter how meagre your hardware. The only other obvious approach is to animate every frame - regardless of how long in takes - I've never found this too useful.</P>

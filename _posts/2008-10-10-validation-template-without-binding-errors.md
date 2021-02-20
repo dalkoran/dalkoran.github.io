@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Validation Template without Binding Errors"
 date: 2008-10-10 15:16
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 WPF guru Josh Smith has just put up a great post <a href="http://joshsmithonwpf.wordpress.com/2008/10/08/binding-to-validationerrors0-without-creating-debug-spew/" target="_blank">here</a> about how to access the validation errors on a WPF control without getting lots of binding debug output. Most samples (including MSDN documentation) suggest you should use Validation.Errors[0] which generate debug output for a binding failure whenever there are no errors (since Errors[0] doesn’t exist).
   

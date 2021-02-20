@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Can a developer learn design skills?"
 date: 2008-12-12 14:50
 author: spencen

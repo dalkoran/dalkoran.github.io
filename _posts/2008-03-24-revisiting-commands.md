@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Revisiting Commands"
 date: 2008-03-24 14:11
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [.NET, Development, WPF]
 tags: []
 ---
-
 
 Having put together the basics of the user interface for my current project I decided to do some more reading regarding the best practices around using a Command Pattern in WPF.
  

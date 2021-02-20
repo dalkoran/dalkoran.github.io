@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Comment Spam Philosophy"
 date: 2009-07-21 14:28
 author: spencen
@@ -7,6 +6,7 @@ comments: true
 categories: [General]
 tags: []
 ---
+
 <P>Recently I’ve been getting quite a bit of comment spam on this blog. Most of it is inane gibberish, a witless praise or a text fragment ripped from the post itself. However, some of it is actually quite entertaining…</P>
 <BLOCKQUOTE>
 <P><EM>Although Google does not care much about links inside comments, Google cares about links INSIDE the posts. Get people to notice you, and they will eventually write about you and your site. Links inside posts are the best quality backlinks you can get. To sum it all up, always write great comments if you are going to write them, and you will be rewarded sooner or later.</EM></P></BLOCKQUOTE>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Windows Phone 7 Launch"
 date: 2010-11-09 06:24
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General, Windows Phone]
 tags: []
 ---
-
 
 Today I finally purchase a Windows Phone 7 device. I choose the Samsung Focus on an AT&amp;T plan. 
   

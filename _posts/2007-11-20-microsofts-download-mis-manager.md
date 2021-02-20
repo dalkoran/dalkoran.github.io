@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Microsoft's Download Mis-manager"
 date: 2007-11-20 13:44
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [Development]
 tags: []
 ---
-
 
 Well - its old news - Visual Studio 2008 has hit the MSDN download site. To herald in the occasion some bright spark from Microsoft has decided to ditch the embarrassingly stodgy download manager and replace it with something much more exciting. Now don't get me wrong, the old download manager did its job - it could download a file to a location on your hard disk with minimal interaction. No bells and whistles - and it was obviously written by someone with great skills at low level byte encoding and network data transfer. That's to say by someone that designed butt ugly user interfaces that would have been considered clumsily constructed even back when it was running in Windows 3.1.
  

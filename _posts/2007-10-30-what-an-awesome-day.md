@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What an Awesome Day!"
 date: 2007-10-30 14:11
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [General]
 tags: []
 ---
-
 
 Today was a great day for me. 
  

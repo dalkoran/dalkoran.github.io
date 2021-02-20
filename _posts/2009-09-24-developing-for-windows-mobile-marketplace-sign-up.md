@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Developing for Windows Mobile – Marketplace Sign-up"
 date: 2009-09-24 15:05
 author: spencen
@@ -7,7 +6,6 @@ comments: true
 categories: [Development, Windows Phone]
 tags: []
 ---
-
 
 [Windows Phone Marketplace](http://developer.windowsmobile.com/Marketplace.aspx). Obviously all the major phone/mobile OS vendors have already beaten Microsoft to market – so you would expect them to have taken some of the learnings from these ventures onboard. In other words – I expect them to do a good job of this – both from a customer and developer perspective.
   
